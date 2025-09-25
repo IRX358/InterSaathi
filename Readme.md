@@ -65,8 +65,7 @@ flowchart TD
 ## 🔒 Security & Privacy  
 
 - JWT-based secure authentication.  
-- Minimal storage → only profile data for registered users.  
-- Compliance with **Indian IT Act & Data Sovereignty** guidelines.  
+- Minimal storage → only profile data for registered users.   
 - Anonymous mode possible (Explore without account).  
 
 ---
@@ -75,8 +74,8 @@ flowchart TD
 
 ```bash
 # Clone repo
-git clone https://github.com/your-username/internsaathi.git
-cd internsaathi
+git clone https://github.com/irx358/InternSaathi.git
+cd InternSaathi
 
 # Install backend deps
 pip install -r requirements.txt
@@ -84,16 +83,6 @@ pip install -r requirements.txt
 # Run FastAPI server
 uvicorn main:app --reload
 ```
-
-Frontend can be served via **GitHub Pages / Netlify / Vercel**.  
-
----
-
-## 🧪 Testing  
-
-- **Unit Tests** → Pytest for backend logic.  
-- **Model Tests** → Accuracy checks on recommendation outputs.  
-- **Field Testing** → Low-bandwidth simulations + rural student user groups.  
 
 ---
 
@@ -115,12 +104,13 @@ Frontend can be served via **GitHub Pages / Netlify / Vercel**.
 
 ---
 
-## 🤝 Contributing  
+🤝 Connect
 
-We welcome contributions! Please fork the repo and submit PRs for bug fixes, translations, or feature enhancements.  
+🐙 GitHub: <a href="https://github.com/IRX358">IRX358</a>
+
+💼 LinkedIn: <a href="https://www.linkedin.com/irfan358"> Irfan Basha </a>
 
 ---
 
-## 📜 License  
-
-This project is licensed under the **MIT License**.  
+>  © 2025 Irfan IR || 
+            Built with CURIOSITY
