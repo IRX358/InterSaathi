@@ -1,0 +1,2714 @@
+[
+  {
+    "student_id": 1,
+    "name": "Manjari Varughese",
+    "email": "purabiyengar@mangal-lad.biz",
+    "phone": "+913094329863",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "12th",
+          "course": "Science",
+          "board_university": "Cambridge",
+          "institute_name": "Yadav-Sundaram Institute",
+          "year_of_passing": 2017,
+          "marks_obtained": 77,
+          "cgpa": 7.2,
+          "stream_specialization": "Commerce"
+        }
+      ],
+      "skills": [
+        "Interest in Sales",
+        "Creativity",
+        "Cloud Computing",
+        "Critical Thinking",
+        "Programming (Python)",
+        "Machine Learning"
+      ]
+    }
+  },
+  {
+    "student_id": 2,
+    "name": "Vivaan Lall",
+    "email": "idalal@dutta.com",
+    "phone": "07629237794",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "Diploma",
+          "course": "Computer Science Engineering",
+          "board_university": "Cambridge",
+          "institute_name": "Srinivasan-Varughese Institute",
+          "year_of_passing": 2023,
+          "marks_obtained": 57,
+          "cgpa": 6.89,
+          "stream_specialization": "PCM"
+        }
+      ],
+      "skills": [
+        "Machine Learning",
+        "Cloud Computing",
+        "Good Interpersonal Skills"
+      ]
+    }
+  },
+  {
+    "student_id": 3,
+    "name": "Amira Grewal",
+    "email": "kabirdivan@savant.com",
+    "phone": "9987367828",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "Diploma",
+          "course": "Medical Laboratory Technology",
+          "board_university": "ICSE",
+          "institute_name": "Balan and Sons Institute",
+          "year_of_passing": 2019,
+          "marks_obtained": 83,
+          "cgpa": 6.27,
+          "stream_specialization": "Commerce"
+        }
+      ],
+      "skills": [
+        "Critical Thinking",
+        "Ability to Speak Local Language",
+        "Machine Learning"
+      ]
+    }
+  },
+  {
+    "student_id": 4,
+    "name": "Samarth Bose",
+    "email": "jayan95@ghosh-saxena.net",
+    "phone": "03601738834",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "12th",
+          "course": "Arts",
+          "board_university": "IB",
+          "institute_name": "Sura LLC Institute",
+          "year_of_passing": 2025,
+          "marks_obtained": 84,
+          "cgpa": 7.9,
+          "stream_specialization": "Arts"
+        }
+      ],
+      "skills": [
+        "Data Analysis",
+        "Problem Solving",
+        "Ability to Speak Local Language",
+        "Teamwork"
+      ]
+    }
+  },
+  {
+    "student_id": 5,
+    "name": "Manjari Savant",
+    "email": "neelofar97@sen.com",
+    "phone": "09291593126",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "Diploma",
+          "course": "Computer Science Engineering",
+          "board_university": "ICSE",
+          "institute_name": "Sachdev Inc Institute",
+          "year_of_passing": 2019,
+          "marks_obtained": 94,
+          "cgpa": 6.46,
+          "stream_specialization": "Commerce"
+        }
+      ],
+      "skills": [
+        "Teamwork",
+        "Critical Thinking",
+        "Interest in Sales",
+        "Good Interpersonal Skills",
+        "Creativity",
+        "Communication Skills"
+      ]
+    }
+  },
+  {
+    "student_id": 6,
+    "name": "Mehul Seshadri",
+    "email": "ichoudhury@dey-buch.org",
+    "phone": "01291130383",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "Undergraduate",
+          "course": "Aeronautical Engineering",
+          "board_university": "State Board",
+          "institute_name": "Borde, Chanda and De Institute",
+          "year_of_passing": 2020,
+          "marks_obtained": 56,
+          "cgpa": 9.21,
+          "stream_specialization": "Arts"
+        }
+      ],
+      "skills": [
+        "Data Analysis",
+        "Programming (Python)",
+        "Machine Learning",
+        "Cloud Computing",
+        "Interest in Sales"
+      ]
+    }
+  },
+  {
+    "student_id": 7,
+    "name": "Himmat Sekhon",
+    "email": "kanav81@hotmail.com",
+    "phone": "+917787857578",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "Undergraduate",
+          "course": "Nursing",
+          "board_university": "Cambridge",
+          "institute_name": "Apte PLC Institute",
+          "year_of_passing": 2024,
+          "marks_obtained": 96,
+          "cgpa": 9.87,
+          "stream_specialization": "Commerce"
+        }
+      ],
+      "skills": [
+        "Problem Solving",
+        "Communication Skills",
+        "JavaScript",
+        "Creativity",
+        "Cloud Computing"
+      ]
+    }
+  },
+  {
+    "student_id": 8,
+    "name": "Vivaan Borde",
+    "email": "swamyriya@gmail.com",
+    "phone": "9720469201",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "10th",
+          "course": "Commerce",
+          "board_university": "CBSE",
+          "institute_name": "Sant-Ravi Institute",
+          "year_of_passing": 2025,
+          "marks_obtained": 85,
+          "cgpa": 9.85,
+          "stream_specialization": "PCB"
+        }
+      ],
+      "skills": [
+        "Machine Learning",
+        "Interest in Sales",
+        "Creativity"
+      ]
+    }
+  },
+  {
+    "student_id": 9,
+    "name": "Tejas Rajagopalan",
+    "email": "rhearama@chander-dhar.info",
+    "phone": "9814272661",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "Undergraduate",
+          "course": "Medical Laboratory Technology",
+          "board_university": "IB",
+          "institute_name": "Sarraf, Kala and Seshadri Institute",
+          "year_of_passing": 2024,
+          "marks_obtained": 78,
+          "cgpa": 5.57,
+          "stream_specialization": "Arts"
+        }
+      ],
+      "skills": [
+        "Interest in Sales",
+        "Teamwork",
+        "Cloud Computing",
+        "Problem Solving",
+        "Creativity"
+      ]
+    }
+  },
+  {
+    "student_id": 10,
+    "name": "Purab Dara",
+    "email": "bawaanvi@yahoo.com",
+    "phone": "+916311977015",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "Undergraduate",
+          "course": "Fashion Design Management",
+          "board_university": "IB",
+          "institute_name": "Suresh Ltd Institute",
+          "year_of_passing": 2022,
+          "marks_obtained": 73,
+          "cgpa": 8.84,
+          "stream_specialization": "Arts"
+        }
+      ],
+      "skills": [
+        "Creativity",
+        "JavaScript",
+        "Machine Learning",
+        "Teamwork",
+        "Critical Thinking"
+      ]
+    }
+  },
+  {
+    "student_id": 11,
+    "name": "Mahika Mander",
+    "email": "kartiksekhon@gulati.com",
+    "phone": "01997237840",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "Undergraduate",
+          "course": "Mechanical Engineering",
+          "board_university": "IB",
+          "institute_name": "Bedi, Ganguly and Cherian Institute",
+          "year_of_passing": 2019,
+          "marks_obtained": 87,
+          "cgpa": 6.42,
+          "stream_specialization": "PCB"
+        }
+      ],
+      "skills": [
+        "Communication Skills",
+        "JavaScript",
+        "Cloud Computing",
+        "Good Interpersonal Skills"
+      ]
+    }
+  },
+  {
+    "student_id": 12,
+    "name": "Lakshay Dixit",
+    "email": "gshukla@hotmail.com",
+    "phone": "07296432098",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "Diploma",
+          "course": "Civil Engineering",
+          "board_university": "CBSE",
+          "institute_name": "Baria-Sangha Institute",
+          "year_of_passing": 2017,
+          "marks_obtained": 50,
+          "cgpa": 9.29,
+          "stream_specialization": "Arts"
+        }
+      ],
+      "skills": [
+        "Cloud Computing",
+        "Data Analysis",
+        "Ability to Speak Local Language",
+        "Teamwork",
+        "Project Management",
+        "Good Interpersonal Skills"
+      ]
+    }
+  },
+  {
+    "student_id": 13,
+    "name": "Jiya Iyengar",
+    "email": "usubramanian@yahoo.com",
+    "phone": "00971081265",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "12th",
+          "course": "Arts",
+          "board_university": "Cambridge",
+          "institute_name": "Sule PLC Institute",
+          "year_of_passing": 2024,
+          "marks_obtained": 81,
+          "cgpa": 5.6,
+          "stream_specialization": "PCM"
+        }
+      ],
+      "skills": [
+        "Machine Learning",
+        "Ability to Speak Local Language",
+        "Good Interpersonal Skills"
+      ]
+    }
+  },
+  {
+    "student_id": 14,
+    "name": "Nayantara Zacharia",
+    "email": "duttsaanvi@yahoo.com",
+    "phone": "09203402519",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "Undergraduate",
+          "course": "Zoology",
+          "board_university": "ICSE",
+          "institute_name": "Rau and Sons Institute",
+          "year_of_passing": 2021,
+          "marks_obtained": 63,
+          "cgpa": 9.26,
+          "stream_specialization": "PCB"
+        }
+      ],
+      "skills": [
+        "Programming (Python)",
+        "Communication Skills",
+        "JavaScript",
+        "Good Interpersonal Skills",
+        "Teamwork",
+        "Cloud Computing",
+        "Machine Learning"
+      ]
+    }
+  },
+  {
+    "student_id": 15,
+    "name": "Kavya Bassi",
+    "email": "urvisrinivas@solanki-balakrishnan.com",
+    "phone": "+912810503462",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "10th",
+          "course": "Arts",
+          "board_university": "IB",
+          "institute_name": "Guha Ltd Institute",
+          "year_of_passing": 2017,
+          "marks_obtained": 80,
+          "cgpa": 6.69,
+          "stream_specialization": "Arts"
+        }
+      ],
+      "skills": [
+        "Ability to Speak Local Language",
+        "Good Interpersonal Skills",
+        "Machine Learning"
+      ]
+    }
+  },
+  {
+    "student_id": 16,
+    "name": "Suhana Sami",
+    "email": "himmat50@basu-halder.com",
+    "phone": "3267367910",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "Undergraduate",
+          "course": "Fashion Design Management",
+          "board_university": "Cambridge",
+          "institute_name": "Chadha Group Institute",
+          "year_of_passing": 2016,
+          "marks_obtained": 55,
+          "cgpa": 5.86,
+          "stream_specialization": "PCB"
+        }
+      ],
+      "skills": [
+        "Communication Skills",
+        "Data Analysis",
+        "Good Interpersonal Skills",
+        "Critical Thinking",
+        "Interest in Sales",
+        "Teamwork"
+      ]
+    }
+  },
+  {
+    "student_id": 17,
+    "name": "Mishti Bal",
+    "email": "ckeer@yahoo.com",
+    "phone": "00913437563",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "10th",
+          "course": "Commerce",
+          "board_university": "CBSE",
+          "institute_name": "Anne-Zachariah Institute",
+          "year_of_passing": 2023,
+          "marks_obtained": 57,
+          "cgpa": 9.46,
+          "stream_specialization": "Arts"
+        }
+      ],
+      "skills": [
+        "Interest in Sales",
+        "Teamwork",
+        "Good Interpersonal Skills",
+        "Creativity",
+        "Critical Thinking",
+        "Data Analysis",
+        "Cloud Computing"
+      ]
+    }
+  },
+  {
+    "student_id": 18,
+    "name": "Sahil Wali",
+    "email": "rraman@yahoo.com",
+    "phone": "1313351874",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "12th",
+          "course": "Arts",
+          "board_university": "State Board",
+          "institute_name": "Sarma-Dixit Institute",
+          "year_of_passing": 2021,
+          "marks_obtained": 76,
+          "cgpa": 7.06,
+          "stream_specialization": "Arts"
+        }
+      ],
+      "skills": [
+        "Data Analysis",
+        "Programming (Python)",
+        "Project Management",
+        "Machine Learning",
+        "Teamwork",
+        "Cloud Computing",
+        "JavaScript"
+      ]
+    }
+  },
+  {
+    "student_id": 19,
+    "name": "Amani Hayre",
+    "email": "aainakunda@gmail.com",
+    "phone": "+914801041865",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "Undergraduate",
+          "course": "Electrical Engineering",
+          "board_university": "IB",
+          "institute_name": "Raj and Sons Institute",
+          "year_of_passing": 2023,
+          "marks_obtained": 82,
+          "cgpa": 9.69,
+          "stream_specialization": "Commerce"
+        }
+      ],
+      "skills": [
+        "Ability to Speak Local Language",
+        "Cloud Computing",
+        "Programming (Python)",
+        "Project Management"
+      ]
+    }
+  },
+  {
+    "student_id": 20,
+    "name": "Anvi Chander",
+    "email": "xmall@yahoo.com",
+    "phone": "02238536216",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "10th",
+          "course": "Arts",
+          "board_university": "CBSE",
+          "institute_name": "Ghose, Zachariah and Korpal Institute",
+          "year_of_passing": 2019,
+          "marks_obtained": 73,
+          "cgpa": 7.52,
+          "stream_specialization": "PCM"
+        }
+      ],
+      "skills": [
+        "Communication Skills",
+        "Ability to Speak Local Language",
+        "Critical Thinking",
+        "Problem Solving",
+        "Interest in Sales"
+      ]
+    }
+  },
+  {
+    "student_id": 21,
+    "name": "Reyansh Kadakia",
+    "email": "vivaan55@chauhan.info",
+    "phone": "+919079092761",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "Undergraduate",
+          "course": "Physiotherapy",
+          "board_university": "ICSE",
+          "institute_name": "Koshy LLC Institute",
+          "year_of_passing": 2023,
+          "marks_obtained": 81,
+          "cgpa": 8.77,
+          "stream_specialization": "PCB"
+        }
+      ],
+      "skills": [
+        "Problem Solving",
+        "Communication Skills",
+        "Creativity"
+      ]
+    }
+  },
+  {
+    "student_id": 22,
+    "name": "Sana Mallick",
+    "email": "pranaydixit@ganguly.com",
+    "phone": "+912556775314",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "12th",
+          "course": "Commerce",
+          "board_university": "IB",
+          "institute_name": "Sharma Group Institute",
+          "year_of_passing": 2023,
+          "marks_obtained": 68,
+          "cgpa": 7.18,
+          "stream_specialization": "Arts"
+        }
+      ],
+      "skills": [
+        "Cloud Computing",
+        "Critical Thinking",
+        "Machine Learning",
+        "Good Interpersonal Skills",
+        "Interest in Sales",
+        "Problem Solving"
+      ]
+    }
+  },
+  {
+    "student_id": 23,
+    "name": "Hansh Edwin",
+    "email": "ivan27@goyal.com",
+    "phone": "0455110368",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "Diploma",
+          "course": "Mechanical Engineering",
+          "board_university": "State Board",
+          "institute_name": "Chaudhuri Inc Institute",
+          "year_of_passing": 2021,
+          "marks_obtained": 76,
+          "cgpa": 9.83,
+          "stream_specialization": "Arts"
+        }
+      ],
+      "skills": [
+        "Machine Learning",
+        "Programming (Python)",
+        "Interest in Sales",
+        "Good Interpersonal Skills",
+        "Teamwork",
+        "Critical Thinking",
+        "Project Management"
+      ]
+    }
+  },
+  {
+    "student_id": 24,
+    "name": "Dhruv Ratti",
+    "email": "ritvik88@barad.net",
+    "phone": "01321799347",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "10th",
+          "course": "Science",
+          "board_university": "Cambridge",
+          "institute_name": "Deep LLC Institute",
+          "year_of_passing": 2025,
+          "marks_obtained": 98,
+          "cgpa": 7.08,
+          "stream_specialization": "PCM"
+        }
+      ],
+      "skills": [
+        "Project Management",
+        "Teamwork",
+        "Creativity",
+        "Cloud Computing"
+      ]
+    }
+  },
+  {
+    "student_id": 25,
+    "name": "Biju Keer",
+    "email": "adada@hotmail.com",
+    "phone": "+912346025564",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "12th",
+          "course": "Science",
+          "board_university": "IB",
+          "institute_name": "Balasubramanian-Jaggi Institute",
+          "year_of_passing": 2020,
+          "marks_obtained": 97,
+          "cgpa": 9.07,
+          "stream_specialization": "Arts"
+        }
+      ],
+      "skills": [
+        "Communication Skills",
+        "Ability to Speak Local Language",
+        "Project Management",
+        "Problem Solving",
+        "Creativity",
+        "JavaScript",
+        "Data Analysis"
+      ]
+    }
+  },
+  {
+    "student_id": 26,
+    "name": "Himmat Vasa",
+    "email": "iyengarvaibhav@iyer.biz",
+    "phone": "5021496366",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "Undergraduate",
+          "course": "Airport Management",
+          "board_university": "IB",
+          "institute_name": "Raval, Rout and Choudhry Institute",
+          "year_of_passing": 2024,
+          "marks_obtained": 69,
+          "cgpa": 5.26,
+          "stream_specialization": "PCB"
+        }
+      ],
+      "skills": [
+        "Programming (Python)",
+        "Project Management",
+        "Cloud Computing",
+        "Interest in Sales"
+      ]
+    }
+  },
+  {
+    "student_id": 27,
+    "name": "Umang Agrawal",
+    "email": "sahildube@doshi.biz",
+    "phone": "2861784026",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "10th",
+          "course": "Science",
+          "board_university": "State Board",
+          "institute_name": "Jain and Sons Institute",
+          "year_of_passing": 2025,
+          "marks_obtained": 80,
+          "cgpa": 5.43,
+          "stream_specialization": "Commerce"
+        }
+      ],
+      "skills": [
+        "Problem Solving",
+        "Machine Learning",
+        "Critical Thinking",
+        "Teamwork"
+      ]
+    }
+  },
+  {
+    "student_id": 28,
+    "name": "Bhavin Sagar",
+    "email": "rohansibal@randhawa-srinivasan.com",
+    "phone": "3770163199",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "Diploma",
+          "course": "Civil Engineering",
+          "board_university": "ICSE",
+          "institute_name": "Kade and Sons Institute",
+          "year_of_passing": 2022,
+          "marks_obtained": 57,
+          "cgpa": 7.14,
+          "stream_specialization": "Commerce"
+        }
+      ],
+      "skills": [
+        "Interest in Sales",
+        "Cloud Computing",
+        "Machine Learning",
+        "JavaScript",
+        "Teamwork"
+      ]
+    }
+  },
+  {
+    "student_id": 29,
+    "name": "Anahi Agrawal",
+    "email": "ramaswamytaimur@hotmail.com",
+    "phone": "1271423649",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "Undergraduate",
+          "course": "Journalism and Mass Communication",
+          "board_university": "Cambridge",
+          "institute_name": "Dyal Group Institute",
+          "year_of_passing": 2023,
+          "marks_obtained": 81,
+          "cgpa": 8.87,
+          "stream_specialization": "Arts"
+        }
+      ],
+      "skills": [
+        "Problem Solving",
+        "Creativity",
+        "Ability to Speak Local Language",
+        "Teamwork",
+        "Critical Thinking",
+        "Programming (Python)",
+        "Cloud Computing"
+      ]
+    }
+  },
+  {
+    "student_id": 30,
+    "name": "Anahita Virk",
+    "email": "virkzaina@yahoo.com",
+    "phone": "3174564166",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "10th",
+          "course": "Arts",
+          "board_university": "Cambridge",
+          "institute_name": "Buch LLC Institute",
+          "year_of_passing": 2015,
+          "marks_obtained": 82,
+          "cgpa": 6.04,
+          "stream_specialization": "PCB"
+        }
+      ],
+      "skills": [
+        "Critical Thinking",
+        "Interest in Sales",
+        "Project Management",
+        "Good Interpersonal Skills",
+        "Ability to Speak Local Language",
+        "Data Analysis"
+      ]
+    }
+  },
+  {
+    "student_id": 31,
+    "name": "Riaan Deol",
+    "email": "veer49@issac.biz",
+    "phone": "+917780919826",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "12th",
+          "course": "Commerce",
+          "board_university": "Cambridge",
+          "institute_name": "Chakraborty-Dave Institute",
+          "year_of_passing": 2015,
+          "marks_obtained": 80,
+          "cgpa": 5.26,
+          "stream_specialization": "PCB"
+        }
+      ],
+      "skills": [
+        "Teamwork",
+        "Communication Skills",
+        "Problem Solving",
+        "Creativity"
+      ]
+    }
+  },
+  {
+    "student_id": 32,
+    "name": "Alia Ravi",
+    "email": "jayantwable@varma-garde.net",
+    "phone": "02653337347",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "10th",
+          "course": "Commerce",
+          "board_university": "Cambridge",
+          "institute_name": "Sant-Tak Institute",
+          "year_of_passing": 2015,
+          "marks_obtained": 67,
+          "cgpa": 5.62,
+          "stream_specialization": "Commerce"
+        }
+      ],
+      "skills": [
+        "Interest in Sales",
+        "Programming (Python)",
+        "Teamwork",
+        "Good Interpersonal Skills",
+        "Communication Skills",
+        "Critical Thinking",
+        "Creativity"
+      ]
+    }
+  },
+  {
+    "student_id": 33,
+    "name": "Yashvi Bassi",
+    "email": "pbhattacharyya@baral.com",
+    "phone": "+918998018798",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "10th",
+          "course": "Science",
+          "board_university": "State Board",
+          "institute_name": "Khare-Bassi Institute",
+          "year_of_passing": 2021,
+          "marks_obtained": 57,
+          "cgpa": 8.67,
+          "stream_specialization": "PCB"
+        }
+      ],
+      "skills": [
+        "Programming (Python)",
+        "Creativity",
+        "Project Management",
+        "Critical Thinking"
+      ]
+    }
+  },
+  {
+    "student_id": 34,
+    "name": "Biju Zachariah",
+    "email": "jayant51@wable.com",
+    "phone": "01950540132",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "Diploma",
+          "course": "Accounting and Finance",
+          "board_university": "CBSE",
+          "institute_name": "Basak-Chana Institute",
+          "year_of_passing": 2018,
+          "marks_obtained": 74,
+          "cgpa": 6.59,
+          "stream_specialization": "Arts"
+        }
+      ],
+      "skills": [
+        "Interest in Sales",
+        "Programming (Python)",
+        "Critical Thinking",
+        "Creativity",
+        "Machine Learning"
+      ]
+    }
+  },
+  {
+    "student_id": 35,
+    "name": "Kartik Bora",
+    "email": "rheachand@suri-chakrabarti.com",
+    "phone": "00582384865",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "Undergraduate",
+          "course": "Computer Science Engineering",
+          "board_university": "CBSE",
+          "institute_name": "Doshi, Virk and Sachar Institute",
+          "year_of_passing": 2023,
+          "marks_obtained": 96,
+          "cgpa": 5.91,
+          "stream_specialization": "Commerce"
+        }
+      ],
+      "skills": [
+        "Problem Solving",
+        "Data Analysis",
+        "Programming (Python)",
+        "JavaScript",
+        "Creativity",
+        "Teamwork"
+      ]
+    }
+  },
+  {
+    "student_id": 36,
+    "name": "Uthkarsh Vora",
+    "email": "himmat82@rege.com",
+    "phone": "00494471033",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "Undergraduate",
+          "course": "Business Analytics",
+          "board_university": "IB",
+          "institute_name": "Zachariah, Dalal and Rajagopalan Institute",
+          "year_of_passing": 2018,
+          "marks_obtained": 94,
+          "cgpa": 5.67,
+          "stream_specialization": "Commerce"
+        }
+      ],
+      "skills": [
+        "Ability to Speak Local Language",
+        "Problem Solving",
+        "Creativity",
+        "Data Analysis",
+        "Critical Thinking",
+        "Teamwork"
+      ]
+    }
+  },
+  {
+    "student_id": 37,
+    "name": "Renee Bali",
+    "email": "sbalan@bir.biz",
+    "phone": "2182463904",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "Diploma",
+          "course": "Chemical Engineering",
+          "board_university": "Cambridge",
+          "institute_name": "Raman-Ravi Institute",
+          "year_of_passing": 2022,
+          "marks_obtained": 95,
+          "cgpa": 5.42,
+          "stream_specialization": "Commerce"
+        }
+      ],
+      "skills": [
+        "Communication Skills",
+        "Project Management",
+        "Good Interpersonal Skills",
+        "JavaScript",
+        "Teamwork"
+      ]
+    }
+  },
+  {
+    "student_id": 38,
+    "name": "Nirvaan Shan",
+    "email": "ahujaraghav@ranganathan.com",
+    "phone": "02873642018",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "Undergraduate",
+          "course": "Nursing",
+          "board_university": "Cambridge",
+          "institute_name": "Dave PLC Institute",
+          "year_of_passing": 2024,
+          "marks_obtained": 65,
+          "cgpa": 6.69,
+          "stream_specialization": "PCB"
+        }
+      ],
+      "skills": [
+        "Machine Learning",
+        "Communication Skills",
+        "Cloud Computing",
+        "Critical Thinking",
+        "Interest in Sales",
+        "Problem Solving",
+        "Good Interpersonal Skills"
+      ]
+    }
+  },
+  {
+    "student_id": 39,
+    "name": "Taran Dass",
+    "email": "wdatta@shere.com",
+    "phone": "+919069237225",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "10th",
+          "course": "Commerce",
+          "board_university": "ICSE",
+          "institute_name": "Mallick Ltd Institute",
+          "year_of_passing": 2022,
+          "marks_obtained": 83,
+          "cgpa": 7.63,
+          "stream_specialization": "PCB"
+        }
+      ],
+      "skills": [
+        "Machine Learning",
+        "JavaScript",
+        "Programming (Python)"
+      ]
+    }
+  },
+  {
+    "student_id": 40,
+    "name": "Madhup Chandran",
+    "email": "kotharinavya@hotmail.com",
+    "phone": "+917784620139",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "12th",
+          "course": "Arts",
+          "board_university": "Cambridge",
+          "institute_name": "Rajan-Kata Institute",
+          "year_of_passing": 2024,
+          "marks_obtained": 80,
+          "cgpa": 5.86,
+          "stream_specialization": "PCM"
+        }
+      ],
+      "skills": [
+        "Communication Skills",
+        "Data Analysis",
+        "Good Interpersonal Skills",
+        "Critical Thinking",
+        "Machine Learning",
+        "Project Management",
+        "Cloud Computing"
+      ]
+    }
+  },
+  {
+    "student_id": 41,
+    "name": "Kabir Lad",
+    "email": "divij05@gmail.com",
+    "phone": "+918357295592",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "12th",
+          "course": "Arts",
+          "board_university": "ICSE",
+          "institute_name": "Bal Inc Institute",
+          "year_of_passing": 2018,
+          "marks_obtained": 67,
+          "cgpa": 9.99,
+          "stream_specialization": "Arts"
+        }
+      ],
+      "skills": [
+        "Communication Skills",
+        "Teamwork",
+        "Data Analysis",
+        "JavaScript"
+      ]
+    }
+  },
+  {
+    "student_id": 42,
+    "name": "Lagan Kala",
+    "email": "adiratalwar@bal.net",
+    "phone": "+918447963051",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "12th",
+          "course": "Commerce",
+          "board_university": "ICSE",
+          "institute_name": "Chatterjee-Wason Institute",
+          "year_of_passing": 2015,
+          "marks_obtained": 55,
+          "cgpa": 8.63,
+          "stream_specialization": "Arts"
+        }
+      ],
+      "skills": [
+        "Project Management",
+        "Interest in Sales",
+        "Cloud Computing",
+        "Teamwork",
+        "Good Interpersonal Skills",
+        "Data Analysis",
+        "Creativity"
+      ]
+    }
+  },
+  {
+    "student_id": 43,
+    "name": "Elakshi Dasgupta",
+    "email": "aarush70@yahoo.com",
+    "phone": "06713627577",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "Undergraduate",
+          "course": "Chemical Engineering",
+          "board_university": "IB",
+          "institute_name": "Kalla PLC Institute",
+          "year_of_passing": 2016,
+          "marks_obtained": 88,
+          "cgpa": 9.67,
+          "stream_specialization": "PCM"
+        }
+      ],
+      "skills": [
+        "Problem Solving",
+        "Cloud Computing",
+        "Machine Learning"
+      ]
+    }
+  },
+  {
+    "student_id": 44,
+    "name": "Tara Krish",
+    "email": "edwinnirvaan@bal.com",
+    "phone": "04311295898",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "10th",
+          "course": "Commerce",
+          "board_university": "CBSE",
+          "institute_name": "Majumdar, Balay and Kar Institute",
+          "year_of_passing": 2017,
+          "marks_obtained": 55,
+          "cgpa": 5.73,
+          "stream_specialization": "Arts"
+        }
+      ],
+      "skills": [
+        "Cloud Computing",
+        "Programming (Python)",
+        "Creativity"
+      ]
+    }
+  },
+  {
+    "student_id": 45,
+    "name": "Jayan Trivedi",
+    "email": "shanalia@gmail.com",
+    "phone": "3760101541",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "Diploma",
+          "course": "Airport Management",
+          "board_university": "CBSE",
+          "institute_name": "Johal, Shukla and Chacko Institute",
+          "year_of_passing": 2025,
+          "marks_obtained": 68,
+          "cgpa": 7.89,
+          "stream_specialization": "PCB"
+        }
+      ],
+      "skills": [
+        "Project Management",
+        "Creativity",
+        "Critical Thinking",
+        "Machine Learning"
+      ]
+    }
+  },
+  {
+    "student_id": 46,
+    "name": "Sumer Chandra",
+    "email": "dhanuk35@bakshi-shroff.com",
+    "phone": "+919554451411",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "Undergraduate",
+          "course": "Medical Laboratory Technology",
+          "board_university": "Cambridge",
+          "institute_name": "Koshy, Sharaf and Venkatesh Institute",
+          "year_of_passing": 2025,
+          "marks_obtained": 67,
+          "cgpa": 7.04,
+          "stream_specialization": "PCB"
+        }
+      ],
+      "skills": [
+        "Project Management",
+        "Teamwork",
+        "Interest in Sales",
+        "Programming (Python)",
+        "Communication Skills",
+        "Creativity",
+        "Cloud Computing"
+      ]
+    }
+  },
+  {
+    "student_id": 47,
+    "name": "Khushi Bali",
+    "email": "ubutala@yahoo.com",
+    "phone": "8032983162",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "Diploma",
+          "course": "Mechanical Engineering",
+          "board_university": "CBSE",
+          "institute_name": "Karnik, Devi and Madan Institute",
+          "year_of_passing": 2025,
+          "marks_obtained": 84,
+          "cgpa": 6.46,
+          "stream_specialization": "Arts"
+        }
+      ],
+      "skills": [
+        "Ability to Speak Local Language",
+        "Machine Learning",
+        "Programming (Python)",
+        "Data Analysis",
+        "Communication Skills",
+        "Good Interpersonal Skills"
+      ]
+    }
+  },
+  {
+    "student_id": 48,
+    "name": "Drishya Bandi",
+    "email": "dbera@hotmail.com",
+    "phone": "6464034724",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "12th",
+          "course": "Science",
+          "board_university": "State Board",
+          "institute_name": "Char-Lanka Institute",
+          "year_of_passing": 2016,
+          "marks_obtained": 85,
+          "cgpa": 9.44,
+          "stream_specialization": "Arts"
+        }
+      ],
+      "skills": [
+        "Programming (Python)",
+        "Ability to Speak Local Language",
+        "Interest in Sales"
+      ]
+    }
+  },
+  {
+    "student_id": 49,
+    "name": "Stuvan Butala",
+    "email": "shaanapte@gmail.com",
+    "phone": "04105599750",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "Undergraduate",
+          "course": "Chemical Engineering",
+          "board_university": "State Board",
+          "institute_name": "Sagar, Chaudhary and Sharma Institute",
+          "year_of_passing": 2016,
+          "marks_obtained": 97,
+          "cgpa": 6.3,
+          "stream_specialization": "PCB"
+        }
+      ],
+      "skills": [
+        "Creativity",
+        "Data Analysis",
+        "Problem Solving",
+        "Critical Thinking",
+        "Ability to Speak Local Language",
+        "Cloud Computing"
+      ]
+    }
+  },
+  {
+    "student_id": 50,
+    "name": "Aradhya Mani",
+    "email": "seherbhavsar@ram.com",
+    "phone": "0785671858",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "Undergraduate",
+          "course": "Automobile Engineering",
+          "board_university": "CBSE",
+          "institute_name": "Shankar-Bawa Institute",
+          "year_of_passing": 2015,
+          "marks_obtained": 97,
+          "cgpa": 8.24,
+          "stream_specialization": "Arts"
+        }
+      ],
+      "skills": [
+        "JavaScript",
+        "Communication Skills",
+        "Teamwork",
+        "Creativity",
+        "Cloud Computing",
+        "Critical Thinking",
+        "Programming (Python)"
+      ]
+    }
+  },
+  {
+    "student_id": 51,
+    "name": "Mahika Chandra",
+    "email": "xtrivedi@goyal.com",
+    "phone": "6824074247",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "Diploma",
+          "course": "Advertising and Brand Management",
+          "board_university": "ICSE",
+          "institute_name": "Kuruvilla LLC Institute",
+          "year_of_passing": 2015,
+          "marks_obtained": 56,
+          "cgpa": 6.34,
+          "stream_specialization": "Arts"
+        }
+      ],
+      "skills": [
+        "Interest in Sales",
+        "Problem Solving",
+        "Data Analysis"
+      ]
+    }
+  },
+  {
+    "student_id": 52,
+    "name": "Khushi Kuruvilla",
+    "email": "rauemir@bhavsar.org",
+    "phone": "02774430719",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "10th",
+          "course": "Science",
+          "board_university": "State Board",
+          "institute_name": "Tak, Wali and Sekhon Institute",
+          "year_of_passing": 2018,
+          "marks_obtained": 63,
+          "cgpa": 9.17,
+          "stream_specialization": "PCM"
+        }
+      ],
+      "skills": [
+        "Teamwork",
+        "Interest in Sales",
+        "Cloud Computing",
+        "Critical Thinking",
+        "Project Management",
+        "Machine Learning",
+        "Ability to Speak Local Language"
+      ]
+    }
+  },
+  {
+    "student_id": 53,
+    "name": "Adah Dutt",
+    "email": "otara@hotmail.com",
+    "phone": "7029872079",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "Diploma",
+          "course": "Information Technology",
+          "board_university": "IB",
+          "institute_name": "Varghese-Agrawal Institute",
+          "year_of_passing": 2015,
+          "marks_obtained": 65,
+          "cgpa": 9.67,
+          "stream_specialization": "PCM"
+        }
+      ],
+      "skills": [
+        "Data Analysis",
+        "Machine Learning",
+        "Ability to Speak Local Language",
+        "Programming (Python)",
+        "Creativity",
+        "Problem Solving"
+      ]
+    }
+  },
+  {
+    "student_id": 54,
+    "name": "Madhup Anne",
+    "email": "psom@gmail.com",
+    "phone": "+913173022072",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "10th",
+          "course": "Science",
+          "board_university": "CBSE",
+          "institute_name": "Soman-Bawa Institute",
+          "year_of_passing": 2018,
+          "marks_obtained": 52,
+          "cgpa": 8.58,
+          "stream_specialization": "Commerce"
+        }
+      ],
+      "skills": [
+        "Critical Thinking",
+        "JavaScript",
+        "Data Analysis",
+        "Cloud Computing"
+      ]
+    }
+  },
+  {
+    "student_id": 55,
+    "name": "Bhavin Konda",
+    "email": "aarna50@bansal.com",
+    "phone": "09972311046",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "Diploma",
+          "course": "Computer Science Engineering",
+          "board_university": "Cambridge",
+          "institute_name": "Kashyap Inc Institute",
+          "year_of_passing": 2020,
+          "marks_obtained": 50,
+          "cgpa": 7.47,
+          "stream_specialization": "Commerce"
+        }
+      ],
+      "skills": [
+        "Critical Thinking",
+        "Good Interpersonal Skills",
+        "Cloud Computing",
+        "Project Management"
+      ]
+    }
+  },
+  {
+    "student_id": 56,
+    "name": "Raunak Balay",
+    "email": "shaan15@yahoo.com",
+    "phone": "+918290751868",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "12th",
+          "course": "Science",
+          "board_university": "ICSE",
+          "institute_name": "Taneja Group Institute",
+          "year_of_passing": 2017,
+          "marks_obtained": 61,
+          "cgpa": 8.67,
+          "stream_specialization": "PCM"
+        }
+      ],
+      "skills": [
+        "Project Management",
+        "Critical Thinking",
+        "Communication Skills",
+        "Interest in Sales",
+        "Programming (Python)",
+        "Good Interpersonal Skills",
+        "JavaScript"
+      ]
+    }
+  },
+  {
+    "student_id": 57,
+    "name": "Arhaan Lall",
+    "email": "apteira@yahoo.com",
+    "phone": "5336144897",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "12th",
+          "course": "Commerce",
+          "board_university": "IB",
+          "institute_name": "Buch, Singh and Uppal Institute",
+          "year_of_passing": 2016,
+          "marks_obtained": 98,
+          "cgpa": 7.94,
+          "stream_specialization": "PCB"
+        }
+      ],
+      "skills": [
+        "Good Interpersonal Skills",
+        "Machine Learning",
+        "Problem Solving",
+        "Cloud Computing",
+        "Teamwork"
+      ]
+    }
+  },
+  {
+    "student_id": 58,
+    "name": "Kartik Bains",
+    "email": "sachdevaivana@sanghvi.com",
+    "phone": "08128809752",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "12th",
+          "course": "Commerce",
+          "board_university": "CBSE",
+          "institute_name": "Sankaran-Joshi Institute",
+          "year_of_passing": 2015,
+          "marks_obtained": 90,
+          "cgpa": 7.25,
+          "stream_specialization": "PCM"
+        }
+      ],
+      "skills": [
+        "Data Analysis",
+        "Project Management",
+        "Creativity",
+        "Teamwork",
+        "JavaScript",
+        "Problem Solving",
+        "Critical Thinking"
+      ]
+    }
+  },
+  {
+    "student_id": 59,
+    "name": "Vaibhav Halder",
+    "email": "vidurvenkataraman@vasa.com",
+    "phone": "02516461283",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "10th",
+          "course": "Arts",
+          "board_university": "ICSE",
+          "institute_name": "Butala, Rastogi and Virk Institute",
+          "year_of_passing": 2023,
+          "marks_obtained": 69,
+          "cgpa": 5.08,
+          "stream_specialization": "PCB"
+        }
+      ],
+      "skills": [
+        "Communication Skills",
+        "Problem Solving",
+        "Data Analysis",
+        "JavaScript",
+        "Interest in Sales"
+      ]
+    }
+  },
+  {
+    "student_id": 60,
+    "name": "Darshit Basu",
+    "email": "subramaniamfaiyaz@hotmail.com",
+    "phone": "03742125830",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "Undergraduate",
+          "course": "Business Analytics",
+          "board_university": "State Board",
+          "institute_name": "Anand-Ramesh Institute",
+          "year_of_passing": 2022,
+          "marks_obtained": 54,
+          "cgpa": 7.19,
+          "stream_specialization": "Commerce"
+        }
+      ],
+      "skills": [
+        "Cloud Computing",
+        "Critical Thinking",
+        "Problem Solving",
+        "Data Analysis"
+      ]
+    }
+  },
+  {
+    "student_id": 61,
+    "name": "Zain Wason",
+    "email": "lsama@hotmail.com",
+    "phone": "9188427795",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "12th",
+          "course": "Arts",
+          "board_university": "CBSE",
+          "institute_name": "Chada Ltd Institute",
+          "year_of_passing": 2021,
+          "marks_obtained": 60,
+          "cgpa": 9.4,
+          "stream_specialization": "PCM"
+        }
+      ],
+      "skills": [
+        "Good Interpersonal Skills",
+        "Interest in Sales",
+        "Creativity",
+        "Ability to Speak Local Language",
+        "Cloud Computing",
+        "Critical Thinking",
+        "Data Analysis"
+      ]
+    }
+  },
+  {
+    "student_id": 62,
+    "name": "Fateh Andra",
+    "email": "aainahari@gmail.com",
+    "phone": "00552719332",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "10th",
+          "course": "Arts",
+          "board_university": "Cambridge",
+          "institute_name": "Thakur-Chana Institute",
+          "year_of_passing": 2021,
+          "marks_obtained": 90,
+          "cgpa": 5.92,
+          "stream_specialization": "PCB"
+        }
+      ],
+      "skills": [
+        "Ability to Speak Local Language",
+        "Critical Thinking",
+        "JavaScript",
+        "Programming (Python)",
+        "Cloud Computing"
+      ]
+    }
+  },
+  {
+    "student_id": 63,
+    "name": "Tarini Savant",
+    "email": "mohanlal37@gmail.com",
+    "phone": "+912506911090",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "12th",
+          "course": "Commerce",
+          "board_university": "ICSE",
+          "institute_name": "Kunda-Solanki Institute",
+          "year_of_passing": 2016,
+          "marks_obtained": 66,
+          "cgpa": 8.76,
+          "stream_specialization": "PCB"
+        }
+      ],
+      "skills": [
+        "Communication Skills",
+        "Data Analysis",
+        "Machine Learning",
+        "Cloud Computing",
+        "Project Management",
+        "JavaScript"
+      ]
+    }
+  },
+  {
+    "student_id": 64,
+    "name": "Prisha Sharma",
+    "email": "sarakaur@gmail.com",
+    "phone": "08752279502",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "Undergraduate",
+          "course": "Airport Management",
+          "board_university": "Cambridge",
+          "institute_name": "Bakshi, Rana and Khatri Institute",
+          "year_of_passing": 2015,
+          "marks_obtained": 99,
+          "cgpa": 6.16,
+          "stream_specialization": "Commerce"
+        }
+      ],
+      "skills": [
+        "JavaScript",
+        "Data Analysis",
+        "Teamwork",
+        "Problem Solving",
+        "Cloud Computing",
+        "Communication Skills"
+      ]
+    }
+  },
+  {
+    "student_id": 65,
+    "name": "Jayesh Dhingra",
+    "email": "shettysamar@raja.net",
+    "phone": "04086302191",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "10th",
+          "course": "Commerce",
+          "board_university": "CBSE",
+          "institute_name": "Bassi, Sawhney and Agate Institute",
+          "year_of_passing": 2020,
+          "marks_obtained": 78,
+          "cgpa": 8.7,
+          "stream_specialization": "PCM"
+        }
+      ],
+      "skills": [
+        "Programming (Python)",
+        "Creativity",
+        "Problem Solving"
+      ]
+    }
+  },
+  {
+    "student_id": 66,
+    "name": "Biju Kaul",
+    "email": "keyavenkataraman@choudhury.org",
+    "phone": "+913179724107",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "12th",
+          "course": "Arts",
+          "board_university": "CBSE",
+          "institute_name": "Tata-Raja Institute",
+          "year_of_passing": 2016,
+          "marks_obtained": 57,
+          "cgpa": 9.74,
+          "stream_specialization": "PCM"
+        }
+      ],
+      "skills": [
+        "Cloud Computing",
+        "Creativity",
+        "Interest in Sales"
+      ]
+    }
+  },
+  {
+    "student_id": 67,
+    "name": "Jhanvi Solanki",
+    "email": "mamooty61@chada.com",
+    "phone": "06518051539",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "10th",
+          "course": "Commerce",
+          "board_university": "CBSE",
+          "institute_name": "Bhardwaj, Kulkarni and Gandhi Institute",
+          "year_of_passing": 2022,
+          "marks_obtained": 82,
+          "cgpa": 8.76,
+          "stream_specialization": "PCM"
+        }
+      ],
+      "skills": [
+        "Machine Learning",
+        "Creativity",
+        "JavaScript"
+      ]
+    }
+  },
+  {
+    "student_id": 68,
+    "name": "Manjari Srivastava",
+    "email": "shayakmagar@gmail.com",
+    "phone": "+917561195604",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "10th",
+          "course": "Arts",
+          "board_university": "IB",
+          "institute_name": "Khalsa Ltd Institute",
+          "year_of_passing": 2022,
+          "marks_obtained": 52,
+          "cgpa": 6.76,
+          "stream_specialization": "PCM"
+        }
+      ],
+      "skills": [
+        "Teamwork",
+        "Data Analysis",
+        "Problem Solving",
+        "Creativity",
+        "Critical Thinking",
+        "Machine Learning"
+      ]
+    }
+  },
+  {
+    "student_id": 69,
+    "name": "Ranbir Singh",
+    "email": "warriorrohan@hotmail.com",
+    "phone": "09455862479",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "10th",
+          "course": "Science",
+          "board_university": "IB",
+          "institute_name": "Saini-Vora Institute",
+          "year_of_passing": 2015,
+          "marks_obtained": 71,
+          "cgpa": 6.97,
+          "stream_specialization": "Commerce"
+        }
+      ],
+      "skills": [
+        "Interest in Sales",
+        "Creativity",
+        "JavaScript",
+        "Data Analysis"
+      ]
+    }
+  },
+  {
+    "student_id": 70,
+    "name": "Jayesh Solanki",
+    "email": "ishaantailor@sane.com",
+    "phone": "+919268988940",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "12th",
+          "course": "Commerce",
+          "board_university": "CBSE",
+          "institute_name": "Sandal Inc Institute",
+          "year_of_passing": 2023,
+          "marks_obtained": 78,
+          "cgpa": 5.27,
+          "stream_specialization": "Commerce"
+        }
+      ],
+      "skills": [
+        "Project Management",
+        "Critical Thinking",
+        "Creativity",
+        "Interest in Sales",
+        "Programming (Python)"
+      ]
+    }
+  },
+  {
+    "student_id": 71,
+    "name": "Devansh Chacko",
+    "email": "tiya23@hotmail.com",
+    "phone": "9999627218",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "12th",
+          "course": "Arts",
+          "board_university": "Cambridge",
+          "institute_name": "Trivedi and Sons Institute",
+          "year_of_passing": 2024,
+          "marks_obtained": 77,
+          "cgpa": 7.66,
+          "stream_specialization": "Commerce"
+        }
+      ],
+      "skills": [
+        "Problem Solving",
+        "Data Analysis",
+        "Cloud Computing",
+        "Machine Learning",
+        "Critical Thinking",
+        "Good Interpersonal Skills",
+        "Teamwork"
+      ]
+    }
+  },
+  {
+    "student_id": 72,
+    "name": "Rati Tata",
+    "email": "zainsingh@gmail.com",
+    "phone": "09427912473",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "10th",
+          "course": "Science",
+          "board_university": "ICSE",
+          "institute_name": "Jani, Bail and Shankar Institute",
+          "year_of_passing": 2016,
+          "marks_obtained": 77,
+          "cgpa": 9.0,
+          "stream_specialization": "Commerce"
+        }
+      ],
+      "skills": [
+        "Programming (Python)",
+        "JavaScript",
+        "Machine Learning",
+        "Critical Thinking",
+        "Teamwork",
+        "Project Management"
+      ]
+    }
+  },
+  {
+    "student_id": 73,
+    "name": "Shayak Khurana",
+    "email": "siyamajumdar@gmail.com",
+    "phone": "03484120472",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "Diploma",
+          "course": "Nursing",
+          "board_university": "Cambridge",
+          "institute_name": "Karpe and Sons Institute",
+          "year_of_passing": 2017,
+          "marks_obtained": 50,
+          "cgpa": 8.6,
+          "stream_specialization": "PCM"
+        }
+      ],
+      "skills": [
+        "Critical Thinking",
+        "JavaScript",
+        "Cloud Computing",
+        "Good Interpersonal Skills"
+      ]
+    }
+  },
+  {
+    "student_id": 74,
+    "name": "Aayush Sule",
+    "email": "aniruddh70@bobal.com",
+    "phone": "+913644930074",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "12th",
+          "course": "Arts",
+          "board_university": "CBSE",
+          "institute_name": "Srinivasan, Banik and Ramakrishnan Institute",
+          "year_of_passing": 2022,
+          "marks_obtained": 99,
+          "cgpa": 9.72,
+          "stream_specialization": "Commerce"
+        }
+      ],
+      "skills": [
+        "Creativity",
+        "Programming (Python)",
+        "JavaScript",
+        "Interest in Sales",
+        "Problem Solving"
+      ]
+    }
+  },
+  {
+    "student_id": 75,
+    "name": "Ira Khanna",
+    "email": "suhana20@sarkar-sunder.biz",
+    "phone": "+916087916319",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "12th",
+          "course": "Science",
+          "board_university": "Cambridge",
+          "institute_name": "Anne LLC Institute",
+          "year_of_passing": 2021,
+          "marks_obtained": 51,
+          "cgpa": 9.52,
+          "stream_specialization": "PCB"
+        }
+      ],
+      "skills": [
+        "Ability to Speak Local Language",
+        "Project Management",
+        "Problem Solving",
+        "Good Interpersonal Skills",
+        "Programming (Python)",
+        "Creativity",
+        "Cloud Computing"
+      ]
+    }
+  },
+  {
+    "student_id": 76,
+    "name": "Indrajit Tank",
+    "email": "ranbir84@boase.org",
+    "phone": "09365712330",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "12th",
+          "course": "Arts",
+          "board_university": "CBSE",
+          "institute_name": "Varkey and Sons Institute",
+          "year_of_passing": 2023,
+          "marks_obtained": 83,
+          "cgpa": 6.96,
+          "stream_specialization": "PCM"
+        }
+      ],
+      "skills": [
+        "Project Management",
+        "Ability to Speak Local Language",
+        "Creativity"
+      ]
+    }
+  },
+  {
+    "student_id": 77,
+    "name": "Eva Joshi",
+    "email": "bbasu@hotmail.com",
+    "phone": "07624703856",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "Diploma",
+          "course": "Accounting and Finance",
+          "board_university": "IB",
+          "institute_name": "Kalita, Gour and Biswas Institute",
+          "year_of_passing": 2022,
+          "marks_obtained": 70,
+          "cgpa": 8.68,
+          "stream_specialization": "Commerce"
+        }
+      ],
+      "skills": [
+        "Critical Thinking",
+        "Data Analysis",
+        "Project Management",
+        "Interest in Sales",
+        "Good Interpersonal Skills",
+        "Cloud Computing",
+        "Creativity"
+      ]
+    }
+  },
+  {
+    "student_id": 78,
+    "name": "Veer Vaidya",
+    "email": "yohannantaran@chand.com",
+    "phone": "+912698665099",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "Diploma",
+          "course": "Agri-Business Management",
+          "board_university": "ICSE",
+          "institute_name": "Manne PLC Institute",
+          "year_of_passing": 2025,
+          "marks_obtained": 82,
+          "cgpa": 6.81,
+          "stream_specialization": "Commerce"
+        }
+      ],
+      "skills": [
+        "Problem Solving",
+        "Data Analysis",
+        "Interest in Sales",
+        "Project Management",
+        "Cloud Computing",
+        "Creativity"
+      ]
+    }
+  },
+  {
+    "student_id": 79,
+    "name": "Vritika Gopal",
+    "email": "banerjeerania@varma-dugar.com",
+    "phone": "05198008157",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "10th",
+          "course": "Arts",
+          "board_university": "IB",
+          "institute_name": "Samra, Gour and Wali Institute",
+          "year_of_passing": 2024,
+          "marks_obtained": 97,
+          "cgpa": 9.69,
+          "stream_specialization": "Arts"
+        }
+      ],
+      "skills": [
+        "Cloud Computing",
+        "Ability to Speak Local Language",
+        "Machine Learning",
+        "Critical Thinking",
+        "JavaScript",
+        "Data Analysis"
+      ]
+    }
+  },
+  {
+    "student_id": 80,
+    "name": "Misha Comar",
+    "email": "kadakianeysa@sant.com",
+    "phone": "2727611465",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "12th",
+          "course": "Science",
+          "board_university": "State Board",
+          "institute_name": "Hayer Ltd Institute",
+          "year_of_passing": 2016,
+          "marks_obtained": 93,
+          "cgpa": 6.92,
+          "stream_specialization": "PCB"
+        }
+      ],
+      "skills": [
+        "Problem Solving",
+        "Teamwork",
+        "Critical Thinking"
+      ]
+    }
+  },
+  {
+    "student_id": 81,
+    "name": "Akarsh Keer",
+    "email": "mchahal@virk.org",
+    "phone": "02141799644",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "Diploma",
+          "course": "Business Analytics",
+          "board_university": "ICSE",
+          "institute_name": "Khatri-Bala Institute",
+          "year_of_passing": 2025,
+          "marks_obtained": 86,
+          "cgpa": 8.41,
+          "stream_specialization": "Commerce"
+        }
+      ],
+      "skills": [
+        "JavaScript",
+        "Ability to Speak Local Language",
+        "Teamwork",
+        "Good Interpersonal Skills",
+        "Data Analysis",
+        "Project Management",
+        "Creativity"
+      ]
+    }
+  },
+  {
+    "student_id": 82,
+    "name": "Manikya Dubey",
+    "email": "shraysharaf@shan-walla.com",
+    "phone": "3307117921",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "10th",
+          "course": "Arts",
+          "board_university": "ICSE",
+          "institute_name": "Garg and Sons Institute",
+          "year_of_passing": 2017,
+          "marks_obtained": 67,
+          "cgpa": 9.86,
+          "stream_specialization": "PCB"
+        }
+      ],
+      "skills": [
+        "Programming (Python)",
+        "Interest in Sales",
+        "Machine Learning",
+        "Critical Thinking",
+        "Data Analysis"
+      ]
+    }
+  },
+  {
+    "student_id": 83,
+    "name": "Zeeshan Rana",
+    "email": "divyanshgoda@karpe.org",
+    "phone": "+917230346542",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "12th",
+          "course": "Commerce",
+          "board_university": "Cambridge",
+          "institute_name": "Bhatia, Khatri and Koshy Institute",
+          "year_of_passing": 2019,
+          "marks_obtained": 78,
+          "cgpa": 7.74,
+          "stream_specialization": "Commerce"
+        }
+      ],
+      "skills": [
+        "Communication Skills",
+        "Teamwork",
+        "Machine Learning",
+        "Cloud Computing",
+        "Project Management",
+        "Problem Solving"
+      ]
+    }
+  },
+  {
+    "student_id": 84,
+    "name": "Miraya Datta",
+    "email": "vritika83@yahoo.com",
+    "phone": "02632621080",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "12th",
+          "course": "Science",
+          "board_university": "CBSE",
+          "institute_name": "Jain Inc Institute",
+          "year_of_passing": 2025,
+          "marks_obtained": 88,
+          "cgpa": 8.21,
+          "stream_specialization": "PCB"
+        }
+      ],
+      "skills": [
+        "Creativity",
+        "Data Analysis",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    }
+  },
+  {
+    "student_id": 85,
+    "name": "Aarav Lata",
+    "email": "iiyengar@choudhary.com",
+    "phone": "01356442637",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "12th",
+          "course": "Science",
+          "board_university": "ICSE",
+          "institute_name": "Sarkar-Dewan Institute",
+          "year_of_passing": 2017,
+          "marks_obtained": 92,
+          "cgpa": 6.49,
+          "stream_specialization": "PCB"
+        }
+      ],
+      "skills": [
+        "Machine Learning",
+        "Critical Thinking",
+        "Good Interpersonal Skills",
+        "Teamwork",
+        "Problem Solving"
+      ]
+    }
+  },
+  {
+    "student_id": 86,
+    "name": "Nakul Dey",
+    "email": "keershamik@hotmail.com",
+    "phone": "+917000487535",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "12th",
+          "course": "Science",
+          "board_university": "IB",
+          "institute_name": "Arya Group Institute",
+          "year_of_passing": 2022,
+          "marks_obtained": 68,
+          "cgpa": 8.36,
+          "stream_specialization": "PCB"
+        }
+      ],
+      "skills": [
+        "Programming (Python)",
+        "Data Analysis",
+        "Critical Thinking"
+      ]
+    }
+  },
+  {
+    "student_id": 87,
+    "name": "Hazel Uppal",
+    "email": "tusharganesan@kohli-bajwa.com",
+    "phone": "01858728715",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "10th",
+          "course": "Commerce",
+          "board_university": "IB",
+          "institute_name": "Setty, Kapur and Yohannan Institute",
+          "year_of_passing": 2019,
+          "marks_obtained": 75,
+          "cgpa": 8.07,
+          "stream_specialization": "PCB"
+        }
+      ],
+      "skills": [
+        "Problem Solving",
+        "Critical Thinking",
+        "JavaScript",
+        "Good Interpersonal Skills",
+        "Creativity",
+        "Teamwork",
+        "Programming (Python)"
+      ]
+    }
+  },
+  {
+    "student_id": 88,
+    "name": "Dharmajan Sekhon",
+    "email": "vlata@gmail.com",
+    "phone": "4466367674",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "10th",
+          "course": "Arts",
+          "board_university": "Cambridge",
+          "institute_name": "Dani, Singhal and Vala Institute",
+          "year_of_passing": 2024,
+          "marks_obtained": 57,
+          "cgpa": 6.82,
+          "stream_specialization": "PCM"
+        }
+      ],
+      "skills": [
+        "JavaScript",
+        "Creativity",
+        "Teamwork",
+        "Good Interpersonal Skills",
+        "Communication Skills"
+      ]
+    }
+  },
+  {
+    "student_id": 89,
+    "name": "Parinaaz Banik",
+    "email": "zsibal@guha.com",
+    "phone": "+911067024750",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "10th",
+          "course": "Arts",
+          "board_university": "CBSE",
+          "institute_name": "Chaudhari LLC Institute",
+          "year_of_passing": 2018,
+          "marks_obtained": 90,
+          "cgpa": 7.37,
+          "stream_specialization": "Arts"
+        }
+      ],
+      "skills": [
+        "Good Interpersonal Skills",
+        "Communication Skills",
+        "Project Management",
+        "Teamwork",
+        "Data Analysis",
+        "Machine Learning"
+      ]
+    }
+  },
+  {
+    "student_id": 90,
+    "name": "Khushi Sarraf",
+    "email": "ganesanprerak@yahoo.com",
+    "phone": "02539837880",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "12th",
+          "course": "Commerce",
+          "board_university": "ICSE",
+          "institute_name": "Sharaf-Talwar Institute",
+          "year_of_passing": 2022,
+          "marks_obtained": 67,
+          "cgpa": 5.98,
+          "stream_specialization": "PCB"
+        }
+      ],
+      "skills": [
+        "Good Interpersonal Skills",
+        "Teamwork",
+        "Data Analysis",
+        "Interest in Sales"
+      ]
+    }
+  },
+  {
+    "student_id": 91,
+    "name": "Arnav Mahal",
+    "email": "ichhabra@rama-bail.com",
+    "phone": "0596789759",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "12th",
+          "course": "Science",
+          "board_university": "IB",
+          "institute_name": "Kibe and Sons Institute",
+          "year_of_passing": 2016,
+          "marks_obtained": 92,
+          "cgpa": 7.45,
+          "stream_specialization": "PCM"
+        }
+      ],
+      "skills": [
+        "Data Analysis",
+        "Machine Learning",
+        "Cloud Computing",
+        "JavaScript"
+      ]
+    }
+  },
+  {
+    "student_id": 92,
+    "name": "Khushi Hayer",
+    "email": "devannayantara@ramanathan-barad.org",
+    "phone": "7310758676",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "Diploma",
+          "course": "Journalism and Mass Communication",
+          "board_university": "CBSE",
+          "institute_name": "Behl-Dhillon Institute",
+          "year_of_passing": 2015,
+          "marks_obtained": 57,
+          "cgpa": 7.16,
+          "stream_specialization": "Commerce"
+        }
+      ],
+      "skills": [
+        "Teamwork",
+        "Critical Thinking",
+        "Cloud Computing",
+        "Project Management",
+        "JavaScript"
+      ]
+    }
+  },
+  {
+    "student_id": 93,
+    "name": "Zaina Krish",
+    "email": "yuvaan40@hayer-chaudhari.org",
+    "phone": "+917683889996",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "12th",
+          "course": "Science",
+          "board_university": "IB",
+          "institute_name": "Biswas, Lad and Khare Institute",
+          "year_of_passing": 2025,
+          "marks_obtained": 87,
+          "cgpa": 8.69,
+          "stream_specialization": "PCB"
+        }
+      ],
+      "skills": [
+        "Interest in Sales",
+        "Data Analysis",
+        "Project Management",
+        "Communication Skills",
+        "Machine Learning",
+        "Creativity"
+      ]
+    }
+  },
+  {
+    "student_id": 94,
+    "name": "Ivan Mani",
+    "email": "anahita73@yahoo.com",
+    "phone": "+916381623826",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "10th",
+          "course": "Science",
+          "board_university": "ICSE",
+          "institute_name": "Kakar-Baral Institute",
+          "year_of_passing": 2018,
+          "marks_obtained": 89,
+          "cgpa": 6.89,
+          "stream_specialization": "PCM"
+        }
+      ],
+      "skills": [
+        "Problem Solving",
+        "Creativity",
+        "JavaScript",
+        "Interest in Sales"
+      ]
+    }
+  },
+  {
+    "student_id": 95,
+    "name": "Renee Dey",
+    "email": "venkateshalia@hotmail.com",
+    "phone": "03657804340",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "Diploma",
+          "course": "Chemical Engineering",
+          "board_university": "IB",
+          "institute_name": "Kota-Vyas Institute",
+          "year_of_passing": 2017,
+          "marks_obtained": 81,
+          "cgpa": 8.19,
+          "stream_specialization": "Arts"
+        }
+      ],
+      "skills": [
+        "Problem Solving",
+        "Data Analysis",
+        "Ability to Speak Local Language",
+        "Critical Thinking",
+        "Teamwork"
+      ]
+    }
+  },
+  {
+    "student_id": 96,
+    "name": "Umang Sundaram",
+    "email": "wabledivit@yahoo.com",
+    "phone": "3433691611",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "Undergraduate",
+          "course": "Agri-Business Management",
+          "board_university": "Cambridge",
+          "institute_name": "Tandon, Tara and Bhasin Institute",
+          "year_of_passing": 2018,
+          "marks_obtained": 91,
+          "cgpa": 6.1,
+          "stream_specialization": "PCM"
+        }
+      ],
+      "skills": [
+        "Machine Learning",
+        "Communication Skills",
+        "Data Analysis",
+        "Programming (Python)",
+        "Cloud Computing",
+        "JavaScript"
+      ]
+    }
+  },
+  {
+    "student_id": 97,
+    "name": "Inaaya  Karnik",
+    "email": "jbains@buch.com",
+    "phone": "08486080141",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "Diploma",
+          "course": "Journalism and Mass Communication",
+          "board_university": "Cambridge",
+          "institute_name": "Dewan, Sheth and Kant Institute",
+          "year_of_passing": 2020,
+          "marks_obtained": 96,
+          "cgpa": 7.57,
+          "stream_specialization": "Commerce"
+        }
+      ],
+      "skills": [
+        "Good Interpersonal Skills",
+        "Ability to Speak Local Language",
+        "Machine Learning",
+        "Communication Skills",
+        "Interest in Sales",
+        "Critical Thinking"
+      ]
+    }
+  },
+  {
+    "student_id": 98,
+    "name": "Neelofar Rajagopal",
+    "email": "ela92@sehgal.com",
+    "phone": "8619170145",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "12th",
+          "course": "Commerce",
+          "board_university": "IB",
+          "institute_name": "Behl, Biswas and Ramesh Institute",
+          "year_of_passing": 2015,
+          "marks_obtained": 88,
+          "cgpa": 8.05,
+          "stream_specialization": "Commerce"
+        }
+      ],
+      "skills": [
+        "JavaScript",
+        "Communication Skills",
+        "Project Management",
+        "Creativity",
+        "Machine Learning",
+        "Ability to Speak Local Language",
+        "Interest in Sales"
+      ]
+    }
+  },
+  {
+    "student_id": 99,
+    "name": "Kiaan Loke",
+    "email": "keerjivin@hotmail.com",
+    "phone": "+910450076601",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "Undergraduate",
+          "course": "Civil Engineering",
+          "board_university": "State Board",
+          "institute_name": "Vasa-Kulkarni Institute",
+          "year_of_passing": 2017,
+          "marks_obtained": 68,
+          "cgpa": 7.08,
+          "stream_specialization": "PCB"
+        }
+      ],
+      "skills": [
+        "Ability to Speak Local Language",
+        "Project Management",
+        "Communication Skills",
+        "Good Interpersonal Skills"
+      ]
+    }
+  },
+  {
+    "student_id": 100,
+    "name": "Lakshay Talwar",
+    "email": "vyasivan@mann.info",
+    "phone": "8692952315",
+    "candidate_profile": {
+      "qualifications": [
+        {
+          "level": "Diploma",
+          "course": "Journalism and Mass Communication",
+          "board_university": "ICSE",
+          "institute_name": "Karnik, Buch and Gupta Institute",
+          "year_of_passing": 2025,
+          "marks_obtained": 100,
+          "cgpa": 8.1,
+          "stream_specialization": "PCM"
+        }
+      ],
+      "skills": [
+        "Cloud Computing",
+        "Teamwork",
+        "Machine Learning",
+        "Communication Skills",
+        "Good Interpersonal Skills"
+      ]
+    }
+  }
+]

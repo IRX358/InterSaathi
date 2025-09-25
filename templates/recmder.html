@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Government of India - AI Internship Recommender Engine</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body class="bg-gray-50 font-sans">
+    <div class="flag-stripe h-1"></div>
+    <div class="bg-gray-900 text-white py-2 text-sm">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex justify-between items-center">
+            <div class="flex items-center space-x-4">
+                <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAyNCAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjUuMzMiIGZpbGw9IiNGRjk5MzMiLz4KPHJlY3QgeT0iNS4zMyIgd2lkdGg9IjI0IiBoZWlnaHQ9IjUuMzMiIGZpbGw9IndoaXRlIi8+CjxyZWN0IHk9IjEwLjY2IiB3aWR0aD0iMjQiIGhlaWdodD0iNS4zMyIgZmlsbD0iIzEzODgwOCIvPgo8Y2lyY2xlIGN4PSIxMiIgY3k9IjgiIHI9IjIiIGZpbGw9IiMwMDAwODAiLz4KPC9zdmc+" alt="Indian Flag" class="w-6 h-4">
+                <span class="text-xs">भारत सरकार / Government of India</span>
+            </div>
+            <div class="flex items-center space-x-4 text-xs">
+                <span>English</span>
+                <span>Screen Reader</span>
+                <span>A-</span>
+                <span>A</span>
+                <span>A+</span>
+            </div>
+        </div>
+    </div>
+
+    <div id="popup-modal" class="modal-overlay fixed inset-0 bg-black bg-opacity-50 z-50 flex items-center justify-center opacity-0 pointer-events-none">
+        <div class="modal-content bg-white rounded-2xl shadow-2xl max-w-md mx-4 p-8 text-center relative">
+            <button id="close-popup" class="absolute top-4 right-4 text-gray-400 hover:text-gray-600 transition-colors duration-200">
+                <i class="fas fa-times text-xl"></i>
+            </button>
+            <div class="mb-6">
+                <div class="w-20 h-20 bg-orange-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                    <i class="fas fa-user-plus text-orange-600 text-2xl"></i>
+                </div>
+                <h3 class="text-2xl font-bold text-gray-900 mb-2">स्वागत है! Welcome!</h3>
+                <p class="text-gray-600 mb-6">Join the PM AI Internship Scheme - Empowering Digital India</p>
+            </div>
+            <button class="bg-orange-500 hover:bg-orange-600 text-white font-semibold py-3 px-8 rounded-lg transition-colors duration-200 w-full">
+                Youth Registration
+            </button>
+            <p class="text-sm text-gray-500 mt-4">
+                Already registered? <a href="#" class="text-orange-600 hover:text-orange-700">Login</a>
+            </p>
+        </div>
+    </div>
+
+    <div id="video-modal" class="modal-overlay fixed inset-0 bg-black bg-opacity-75 z-50 flex items-center justify-center p-4 opacity-0 pointer-events-none">
+        <div class="video-modal-content bg-black rounded-lg shadow-2xl w-full max-w-4xl relative">
+            <button id="close-video-modal" class="absolute -top-3 -right-3 text-white bg-orange-600 rounded-full h-9 w-9 flex items-center justify-center hover:bg-orange-700 transition-colors duration-200 z-10">
+                <i class="fas fa-times"></i>
+            </button>
+          <div class="aspect-video w-full bg-black">
+            <video id="demo-video-player" class="w-full h-full" controls autoplay muted loop src="/static/assets/InterSaathi_intro.mp4"></video>
+          </div>
+        </div>
+    </div>
+
+    <nav class="bg-white shadow-lg">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between items-center py-4 border-b">
+                <div class="flex items-center space-x-6">
+                    <div class="flex items-center space-x-3">
+                        <img src="/static/assets/logo1.png" alt="Government Emblem" class="w-30 h-16">
+                        <div>
+                            <div class="text-sm font-semibold text-blue-900">मिनिस्ट्री ऑफ कॉर्पोरेट अफेयर्स</div>
+                            <div class="text-xs text-gray-600">MINISTRY OF CORPORATE AFFAIRS</div>
+                            <div class="text-xs text-gray-500">GOVERNMENT OF INDIA</div>
+                        </div>
+                    </div>
+                    <div class="flex items-center space-x-2 ml-8">
+                        <div class="w-12 h-12 bg-orange-500 rounded-lg flex items-center justify-center">
+                            <i class="fas fa-brain text-white text-lg"></i>
+                        </div>
+                        <div>
+                            <div class="text-lg font-bold text-orange-600">AI Internship Recommendation Engine</div>
+                            <div class="text-xs text-gray-500">LEARN FROM THE BEST</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="flex items-center space-x-4">
+                    <button class="bg-orange-500 hover:bg-orange-600 text-white px-4 py-2 rounded text-sm font-medium">
+                        <i class="fas fa-user-plus mr-2"></i>Youth Registration
+                    </button>
+                    <button class="bg-orange-600 hover:bg-orange-700 text-white px-4 py-2 rounded text-sm font-medium">
+                        <i class="fas fa-sign-in-alt mr-2"></i>Login
+                    </button>
+                    <img src="https://placehold.co/80x32/1E40AF/FFFFFF?text=Digital+India" alt="Digital India" class="h-8">
+                </div>
+            </div>
+            <div class="gov-gradient">
+                <div class="flex items-center h-12 justify-between">
+                    <div class="hidden md:flex items-center space-x-8 text-white text-sm font-medium">
+                        <a href="/" class="nav-link flex items-center space-x-2 hover:text-orange-200 transition-colors duration-200"><i class="fas fa-home"></i><span>HOME</span></a>
+                        <a href="/" class="nav-link flex items-center space-x-2 hover:text-orange-200 transition-colors duration-200"><i class="fas fa-check-circle"></i><span>ELIGIBILITY</span></a>
+                        <a href="/" class="nav-link flex items-center space-x-2 hover:text-orange-200 transition-colors duration-200"><i class="fas fa-mobile-alt"></i><span>MOBILE APP</span></a>
+                        <a href="#feedback-section" class="nav-link flex items-center space-x-2 hover:text-orange-200 transition-colors duration-200"><i class="fas fa-headset"></i><span>FEEDBACK</span></a>
+                    </div>
+                    <div class="md:hidden">
+                        <button id="mobile-menu-btn" class="text-white hover:text-orange-200 focus:outline-none transition-colors duration-200 px-4">
+                            <i class="fas fa-bars text-xl"></i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="mobile-menu">
+            <div class="px-4 py-3 space-y-2 text-white bg-blue-800">
+                <a href="/" class="mobile-nav-link block py-2 text-sm hover:text-orange-200">HOME</a>
+                <a href="/" class="mobile-nav-link block py-2 text-sm hover:text-orange-200">ELIGIBILITY</a>
+                <a href="/" class="mobile-nav-link block py-2 text-sm hover:text-orange-200">MOBILE APP</a>
+                <a href="#feedback-section" class="mobile-nav-link block py-2 text-sm hover:text-orange-200">FEEDBACK</a>
+            </div>
+        </div>
+    </nav>
+<main class="container mx-auto px-4 py-8">
+        <!-- Language Translator Dropdown -->
+        <div class="flex justify-end mb-4">
+            <select id="language-selector" class="rounded-lg p-2 shadow-lg">
+                <option value="en" selected>English</option>
+            </select>
+        </div>
+        
+        <!-- Low Digital Literacy Toggle -->
+        <div class="toggle-switch-container">
+            <span id="toggle-label-advanced" class="text-gray-700 font-semibold mr-2">Advanced Mode</span>
+            <label class="toggle-switch">
+                <input type="checkbox" id="mode-toggle">
+                <span class="slider"></span>
+            </label>
+            <span id="toggle-label-simple" class="text-gray-400 font-semibold ml-2">Simple Mode</span>
+        </div>
+
+        <section id="user-input-form-section" class="card gov-gradient p-8 rounded-lg shadow-lg text-white mb-8">
+            <h2 id="find-internship-title" class="text-3xl font-bold text-center mb-6">Find your Internship using AI</h2>
+            <form id="user-input-form" class="space-y-6">
+                <div>
+                    <label for="name" class="block text-sm font-medium mb-1">Name</label>
+                    <input type="text" id="name" name="name" class="text-gray-800" placeholder="Enter your full name" required>
+                </div>
+                <div>
+                    <label for="education" class="block text-sm font-medium mb-1">Education</label>
+                    <select id="education" name="education" class="text-gray-800" required>
+                        <option value="">Select your education level</option>
+                    </select>
+                </div>
+                <div>
+                    <label for="skills" class="block text-sm font-medium mb-1">Skills</label>
+                    <input type="text" id="skills" name="skills" class="text-gray-800" placeholder="e.g., Python, React, Data Science" required>
+                </div>
+                <div>
+                    <label for="internship-type" class="block text-sm font-medium mb-1">Internship Type</label>
+                    <select id="internship-type" name="internship_type" class="text-gray-800">
+                        <option value="">Select internship type</option>
+                    </select>
+                </div>
+                <div>
+                    <label for="category" class="block text-sm font-medium mb-1">Category / Sector</label>
+                    <select id="category" name="category" class="text-gray-800">
+                        <option value="">Select a category</option>
+                    </select>
+                </div>
+                <div>
+                    <label for="internship-duration" class="block text-sm font-medium mb-1">Internship Duration</label>
+                    <select id="internship-duration" name="duration" class="text-gray-800">
+                        <option value="">Select duration</option>
+                    </select>
+                </div>
+                <div class="flex flex-col md:flex-row space-y-4 md:space-y-0 md:space-x-4">
+                    <button type="submit" id="explore-btn" class="btn-primary w-full md:w-1/2">Explore Internships</button>
+                    <button type="button" id="save-profile-btn" class="btn-primary w-full md:w-1/2">Save Profile</button>
+                </div>
+            </form>
+        </section>
+
+        <!-- Search Section -->
+        <section id="search-section" class="card mb-8 p-8 rounded-lg shadow-lg">
+            <h2 id="search-title" class="text-2xl font-bold text-center text-gray-800 mb-6">Search Internships</h2>
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Search by skills, type, or company name..." class="w-full text-gray-800 rounded-lg p-3">
+                <div id="search-results-dropdown" class="search-results"></div>
+            </div>
+            <div id="search-display-area" class="mt-4"></div>
+        </section>
+
+        <!-- Internship Results Section -->
+        <section id="results-section" class="hidden">
+            <h2 class="text-2xl font-bold text-gray-800 mb-6">Recommended Internships</h2>
+            <div id="internship-results-container" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            </div>
+        </section>
+
+        <!-- Feedback Section -->
+        <section id="feedback-section" class="card mt-8 p-8 rounded-lg shadow-lg hidden">
+            <h2 id="feedback-title" class="text-2xl font-bold text-gray-800 mb-6 text-center">Your Feedback Matters</h2>
+            <form id="feedback-form" class="space-y-4">
+                <div>
+                    <label for="feedback-message" class="block text-sm font-medium text-gray-700 mb-1">Share your thoughts</label>
+                    <textarea id="feedback-message" rows="4" class="w-full text-gray-800 rounded-lg p-3" placeholder="Enter your feedback here..."></textarea>
+                </div>
+                <button type="submit" id="submit-feedback-btn" class="btn-primary w-full">Submit Feedback</button>
+            </form>
+        </section>
+
+        <!-- FAQ/Queries Page (first hidden)-->
+        <section id="faq-page" class="card mt-8 p-8 rounded-lg shadow-lg hidden">
+            <h2 id="faq-title" class="text-2xl font-bold text-gray-800 mb-6 text-center">Frequently Asked Questions</h2>
+            <div id="faq-content">
+                <!-- FAQ content will be dynamically loaded here -->
+            </div>
+            <button id="back-to-home" class="btn-primary mt-6">Back to Home</button>
+        </section>
+
+    </main>
+    
+    <!-- ssame footer bhai -->
+ <footer class="gov-gradient text-white">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+            <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
+                <div><h4 class="font-bold text-lg mb-4">About PM AI Internship</h4><p class="text-sm text-blue-200">A web-based internship recommender
+ platform that matches students to the
+ most relevant internships</p></div>
+                <div><h4 class="font-bold text-lg mb-4">Quick Links</h4><ul class="space-y-2 text-sm"><li><a href="#" class="text-blue-200 hover:text-white">Home</a></li><li><a href="#eligibility" class="text-blue-200 hover:text-white">Eligibility</a></li><li><a href="#guidelines" class="text-blue-200 hover:text-white">Guidelines</a></li></ul></div>
+                <div><h4 class="font-bold text-lg mb-4">Contact Us</h4><ul class="space-y-2 text-sm text-blue-200"><li class="flex items-start"><i class="fas fa-map-marker-alt mt-1 mr-2"></i><span>Banglore , Karnataka</span></li><li class="flex items-center"><i class="fas fa-phone-alt mr-2"></i><span>123122-123122</span></li><li class="flex items-center"><i class="fas fa-envelope mr-2"></i><span>xxxxx@mail.com</span></li></ul></div>
+                <div><h4 class="font-bold text-lg mb-4">Follow Us</h4><div class="flex space-x-4"><a href="#" class="text-blue-200 hover:text-white"><i class="fab fa-facebook-f text-xl"></i></a><a href="#" class="text-blue-200 hover:text-white"><i class="fab fa-twitter text-xl"></i></a><a href="#" class="text-blue-200 hover:text-white"><i class="fab fa-linkedin-in text-xl"></i></a></div></div>
+            </div>
+            <div class="border-t border-blue-700 mt-8 pt-6 text-center text-sm text-blue-200"><p>Made by Team InterSaathi [SIH] </p><p class="text-xs mt-2">Prototype designed by team InterSaathi</p></div>
+        </div>
+    </footer>
+ <script src="/static/js/engine_script.js"></script>
+</body>
+</html>

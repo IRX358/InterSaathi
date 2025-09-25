@@ -1,0 +1,1664 @@
+[
+  {
+    "internship_id": 1,
+    "title": "Finance Internship",
+    "company": "Subramanian, Suri and Ramesh",
+    "location": "Berhampur, Tripura",
+    "duration": "6 months",
+    "stipend": "₹18615/month",
+    "eligibility": {
+      "required_qualification": "Diploma",
+      "skills_required": [
+        "Machine Learning",
+        "Good Interpersonal Skills",
+        "Project Management",
+        "Critical Thinking",
+        "Creativity"
+      ]
+    }
+  },
+  {
+    "internship_id": 2,
+    "title": "Marketing Internship",
+    "company": "Borra, Walla and Bera",
+    "location": "Ambattur, Jharkhand",
+    "duration": "3 months",
+    "stipend": "₹13652/month",
+    "eligibility": {
+      "required_qualification": "Graduate",
+      "skills_required": [
+        "Machine Learning",
+        "Creativity"
+      ]
+    }
+  },
+  {
+    "internship_id": 3,
+    "title": "Engineering Internship",
+    "company": "Karnik, Raju and Subramanian",
+    "location": "Nagpur, Tripura",
+    "duration": "1 months",
+    "stipend": "₹6727/month",
+    "eligibility": {
+      "required_qualification": "Graduate",
+      "skills_required": [
+        "Problem Solving",
+        "Data Analysis",
+        "Machine Learning"
+      ]
+    }
+  },
+  {
+    "internship_id": 4,
+    "title": "Engineering Internship",
+    "company": "Singh-Shukla",
+    "location": "Baranagar, Andhra Pradesh",
+    "duration": "2 months",
+    "stipend": "₹7229/month",
+    "eligibility": {
+      "required_qualification": "Graduate",
+      "skills_required": [
+        "Cloud Computing",
+        "Data Analysis",
+        "Creativity",
+        "Project Management",
+        "Problem Solving"
+      ]
+    }
+  },
+  {
+    "internship_id": 5,
+    "title": "Hospitality Internship",
+    "company": "Malhotra LLC",
+    "location": "Kishanganj, Manipur",
+    "duration": "1 months",
+    "stipend": "₹7541/month",
+    "eligibility": {
+      "required_qualification": "Diploma",
+      "skills_required": [
+        "Creativity",
+        "Critical Thinking",
+        "Project Management",
+        "JavaScript",
+        "Machine Learning"
+      ]
+    }
+  },
+  {
+    "internship_id": 6,
+    "title": "Design Internship",
+    "company": "Kale Ltd",
+    "location": "Dindigul, Odisha",
+    "duration": "1 months",
+    "stipend": "₹8139/month",
+    "eligibility": {
+      "required_qualification": "Graduate",
+      "skills_required": [
+        "Machine Learning",
+        "Ability to Speak Local Language",
+        "Data Analysis"
+      ]
+    }
+  },
+  {
+    "internship_id": 7,
+    "title": "Marketing Internship",
+    "company": "Yohannan PLC",
+    "location": "Nagaon, Tamil Nadu",
+    "duration": "1 months",
+    "stipend": "₹14644/month",
+    "eligibility": {
+      "required_qualification": "Graduate",
+      "skills_required": [
+        "Project Management",
+        "Teamwork"
+      ]
+    }
+  },
+  {
+    "internship_id": 8,
+    "title": "Education Internship",
+    "company": "Shanker and Sons",
+    "location": "Kulti, Himachal Pradesh",
+    "duration": "4 months",
+    "stipend": "₹13941/month",
+    "eligibility": {
+      "required_qualification": "Diploma",
+      "skills_required": [
+        "Communication Skills",
+        "Creativity",
+        "JavaScript",
+        "Good Interpersonal Skills",
+        "Problem Solving"
+      ]
+    }
+  },
+  {
+    "internship_id": 9,
+    "title": "Technology Internship",
+    "company": "Dar, Sarraf and Samra",
+    "location": "Jehanabad, Rajasthan",
+    "duration": "5 months",
+    "stipend": "₹9548/month",
+    "eligibility": {
+      "required_qualification": "Diploma",
+      "skills_required": [
+        "Ability to Speak Local Language",
+        "Communication Skills"
+      ]
+    }
+  },
+  {
+    "internship_id": 10,
+    "title": "Marketing Internship",
+    "company": "Bakshi, Rajagopal and Sastry",
+    "location": "Fatehpur, Rajasthan",
+    "duration": "3 months",
+    "stipend": "₹7544/month",
+    "eligibility": {
+      "required_qualification": "Graduate",
+      "skills_required": [
+        "Creativity",
+        "JavaScript",
+        "Teamwork",
+        "Data Analysis"
+      ]
+    }
+  },
+  {
+    "internship_id": 11,
+    "title": "Healthcare Internship",
+    "company": "Ratti-Kant",
+    "location": "Ulhasnagar, Arunachal Pradesh",
+    "duration": "6 months",
+    "stipend": "₹17179/month",
+    "eligibility": {
+      "required_qualification": "Undergraduate",
+      "skills_required": [
+        "Good Interpersonal Skills",
+        "Project Management",
+        "Interest in Sales",
+        "Programming (Python)"
+      ]
+    }
+  },
+  {
+    "internship_id": 12,
+    "title": "Technology Internship",
+    "company": "Khalsa LLC",
+    "location": "Varanasi, Uttarakhand",
+    "duration": "5 months",
+    "stipend": "₹13609/month",
+    "eligibility": {
+      "required_qualification": "Undergraduate",
+      "skills_required": [
+        "Communication Skills",
+        "Cloud Computing"
+      ]
+    }
+  },
+  {
+    "internship_id": 13,
+    "title": "Marketing Internship",
+    "company": "Rau, Trivedi and Bala",
+    "location": "Bhilwara, Kerala",
+    "duration": "1 months",
+    "stipend": "₹9190/month",
+    "eligibility": {
+      "required_qualification": "Undergraduate",
+      "skills_required": [
+        "Machine Learning",
+        "JavaScript",
+        "Project Management"
+      ]
+    }
+  },
+  {
+    "internship_id": 14,
+    "title": "Research Internship",
+    "company": "Lad Group",
+    "location": "Bokaro, Madhya Pradesh",
+    "duration": "2 months",
+    "stipend": "₹15473/month",
+    "eligibility": {
+      "required_qualification": "Undergraduate",
+      "skills_required": [
+        "Problem Solving",
+        "Cloud Computing",
+        "Project Management",
+        "Teamwork",
+        "Programming (Python)"
+      ]
+    }
+  },
+  {
+    "internship_id": 15,
+    "title": "Education Internship",
+    "company": "Mander PLC",
+    "location": "Uluberia, Uttarakhand",
+    "duration": "6 months",
+    "stipend": "₹7257/month",
+    "eligibility": {
+      "required_qualification": "Diploma",
+      "skills_required": [
+        "Machine Learning",
+        "Project Management"
+      ]
+    }
+  },
+  {
+    "internship_id": 16,
+    "title": "Technology Internship",
+    "company": "Cherian LLC",
+    "location": "Amravati, Meghalaya",
+    "duration": "1 months",
+    "stipend": "₹17678/month",
+    "eligibility": {
+      "required_qualification": "Undergraduate",
+      "skills_required": [
+        "Interest in Sales",
+        "Programming (Python)",
+        "Teamwork"
+      ]
+    }
+  },
+  {
+    "internship_id": 17,
+    "title": "Hospitality Internship",
+    "company": "Rajan-Mannan",
+    "location": "Bikaner, Madhya Pradesh",
+    "duration": "5 months",
+    "stipend": "₹16111/month",
+    "eligibility": {
+      "required_qualification": "Graduate",
+      "skills_required": [
+        "Programming (Python)",
+        "Interest in Sales",
+        "Good Interpersonal Skills"
+      ]
+    }
+  },
+  {
+    "internship_id": 18,
+    "title": "Hospitality Internship",
+    "company": "Kar and Sons",
+    "location": "Motihari, Kerala",
+    "duration": "5 months",
+    "stipend": "₹17006/month",
+    "eligibility": {
+      "required_qualification": "Undergraduate",
+      "skills_required": [
+        "Programming (Python)",
+        "Problem Solving",
+        "Critical Thinking",
+        "Project Management",
+        "Data Analysis"
+      ]
+    }
+  },
+  {
+    "internship_id": 19,
+    "title": "Healthcare Internship",
+    "company": "Kalla PLC",
+    "location": "Guntakal, Mizoram",
+    "duration": "2 months",
+    "stipend": "₹12055/month",
+    "eligibility": {
+      "required_qualification": "Graduate",
+      "skills_required": [
+        "Critical Thinking",
+        "Machine Learning",
+        "Ability to Speak Local Language",
+        "Data Analysis"
+      ]
+    }
+  },
+  {
+    "internship_id": 20,
+    "title": "Healthcare Internship",
+    "company": "Goda Group",
+    "location": "Patiala, Maharashtra",
+    "duration": "6 months",
+    "stipend": "₹10974/month",
+    "eligibility": {
+      "required_qualification": "Graduate",
+      "skills_required": [
+        "Project Management",
+        "Teamwork",
+        "JavaScript",
+        "Ability to Speak Local Language",
+        "Machine Learning"
+      ]
+    }
+  },
+  {
+    "internship_id": 21,
+    "title": "Hospitality Internship",
+    "company": "Kashyap PLC",
+    "location": "Thoothukudi, Sikkim",
+    "duration": "4 months",
+    "stipend": "₹15726/month",
+    "eligibility": {
+      "required_qualification": "Graduate",
+      "skills_required": [
+        "Programming (Python)",
+        "Critical Thinking",
+        "JavaScript",
+        "Project Management",
+        "Ability to Speak Local Language"
+      ]
+    }
+  },
+  {
+    "internship_id": 22,
+    "title": "Education Internship",
+    "company": "Mander LLC",
+    "location": "Tadipatri, Tamil Nadu",
+    "duration": "5 months",
+    "stipend": "₹10761/month",
+    "eligibility": {
+      "required_qualification": "Diploma",
+      "skills_required": [
+        "Machine Learning",
+        "JavaScript",
+        "Good Interpersonal Skills",
+        "Communication Skills",
+        "Ability to Speak Local Language"
+      ]
+    }
+  },
+  {
+    "internship_id": 23,
+    "title": "Design Internship",
+    "company": "Chaudhry-Dugar",
+    "location": "Patna, Nagaland",
+    "duration": "1 months",
+    "stipend": "₹15530/month",
+    "eligibility": {
+      "required_qualification": "Diploma",
+      "skills_required": [
+        "Interest in Sales",
+        "Cloud Computing",
+        "Communication Skills",
+        "Ability to Speak Local Language",
+        "Good Interpersonal Skills"
+      ]
+    }
+  },
+  {
+    "internship_id": 24,
+    "title": "Technology Internship",
+    "company": "Issac Inc",
+    "location": "Coimbatore, Nagaland",
+    "duration": "3 months",
+    "stipend": "₹5165/month",
+    "eligibility": {
+      "required_qualification": "Diploma",
+      "skills_required": [
+        "JavaScript",
+        "Interest in Sales",
+        "Cloud Computing",
+        "Project Management"
+      ]
+    }
+  },
+  {
+    "internship_id": 25,
+    "title": "Education Internship",
+    "company": "Hans PLC",
+    "location": "Purnia, Gujarat",
+    "duration": "3 months",
+    "stipend": "₹11449/month",
+    "eligibility": {
+      "required_qualification": "Graduate",
+      "skills_required": [
+        "Creativity",
+        "Ability to Speak Local Language",
+        "Machine Learning",
+        "Problem Solving",
+        "Good Interpersonal Skills"
+      ]
+    }
+  },
+  {
+    "internship_id": 26,
+    "title": "Hospitality Internship",
+    "company": "Shukla Ltd",
+    "location": "Mysore, Tamil Nadu",
+    "duration": "1 months",
+    "stipend": "₹10906/month",
+    "eligibility": {
+      "required_qualification": "Undergraduate",
+      "skills_required": [
+        "Communication Skills",
+        "Interest in Sales",
+        "Data Analysis",
+        "Cloud Computing",
+        "Programming (Python)"
+      ]
+    }
+  },
+  {
+    "internship_id": 27,
+    "title": "Research Internship",
+    "company": "Chaudhary-Kulkarni",
+    "location": "Rewa, Chhattisgarh",
+    "duration": "5 months",
+    "stipend": "₹13588/month",
+    "eligibility": {
+      "required_qualification": "Graduate",
+      "skills_required": [
+        "Teamwork",
+        "Cloud Computing",
+        "Creativity",
+        "Critical Thinking",
+        "Problem Solving"
+      ]
+    }
+  },
+  {
+    "internship_id": 28,
+    "title": "Healthcare Internship",
+    "company": "Halder, Chaudhari and Karan",
+    "location": "Shivpuri, Andhra Pradesh",
+    "duration": "2 months",
+    "stipend": "₹16800/month",
+    "eligibility": {
+      "required_qualification": "Graduate",
+      "skills_required": [
+        "Teamwork",
+        "Creativity"
+      ]
+    }
+  },
+  {
+    "internship_id": 29,
+    "title": "Hospitality Internship",
+    "company": "Gaba Group",
+    "location": "Mehsana, Arunachal Pradesh",
+    "duration": "3 months",
+    "stipend": "₹7830/month",
+    "eligibility": {
+      "required_qualification": "Diploma",
+      "skills_required": [
+        "Programming (Python)",
+        "Project Management"
+      ]
+    }
+  },
+  {
+    "internship_id": 30,
+    "title": "Research Internship",
+    "company": "Sami Group",
+    "location": "Jodhpur, West Bengal",
+    "duration": "6 months",
+    "stipend": "₹14021/month",
+    "eligibility": {
+      "required_qualification": "Undergraduate",
+      "skills_required": [
+        "Creativity",
+        "JavaScript",
+        "Communication Skills",
+        "Cloud Computing",
+        "Critical Thinking"
+      ]
+    }
+  },
+  {
+    "internship_id": 31,
+    "title": "Engineering Internship",
+    "company": "Suri-Sagar",
+    "location": "Davanagere, Punjab",
+    "duration": "4 months",
+    "stipend": "₹10007/month",
+    "eligibility": {
+      "required_qualification": "Undergraduate",
+      "skills_required": [
+        "Creativity",
+        "Critical Thinking",
+        "Good Interpersonal Skills",
+        "Programming (Python)",
+        "Data Analysis"
+      ]
+    }
+  },
+  {
+    "internship_id": 32,
+    "title": "Education Internship",
+    "company": "Boase, Sarkar and Zacharia",
+    "location": "Alwar, Rajasthan",
+    "duration": "6 months",
+    "stipend": "₹15464/month",
+    "eligibility": {
+      "required_qualification": "Graduate",
+      "skills_required": [
+        "Ability to Speak Local Language",
+        "Data Analysis",
+        "Good Interpersonal Skills"
+      ]
+    }
+  },
+  {
+    "internship_id": 33,
+    "title": "Technology Internship",
+    "company": "Dani, Bath and Ramakrishnan",
+    "location": "Junagadh, Goa",
+    "duration": "1 months",
+    "stipend": "₹15882/month",
+    "eligibility": {
+      "required_qualification": "Graduate",
+      "skills_required": [
+        "Programming (Python)",
+        "Creativity",
+        "Teamwork"
+      ]
+    }
+  },
+  {
+    "internship_id": 34,
+    "title": "Finance Internship",
+    "company": "Balay, Dalal and Bumb",
+    "location": "Tiruvottiyur, Andhra Pradesh",
+    "duration": "4 months",
+    "stipend": "₹16689/month",
+    "eligibility": {
+      "required_qualification": "Graduate",
+      "skills_required": [
+        "JavaScript",
+        "Interest in Sales",
+        "Data Analysis"
+      ]
+    }
+  },
+  {
+    "internship_id": 35,
+    "title": "Research Internship",
+    "company": "Chhabra, Bala and Karpe",
+    "location": "Kalyan-Dombivli, Madhya Pradesh",
+    "duration": "4 months",
+    "stipend": "₹12398/month",
+    "eligibility": {
+      "required_qualification": "Undergraduate",
+      "skills_required": [
+        "JavaScript",
+        "Interest in Sales",
+        "Machine Learning",
+        "Teamwork",
+        "Creativity"
+      ]
+    }
+  },
+  {
+    "internship_id": 36,
+    "title": "Hospitality Internship",
+    "company": "Sharma LLC",
+    "location": "Miryalaguda, Uttarakhand",
+    "duration": "1 months",
+    "stipend": "₹6764/month",
+    "eligibility": {
+      "required_qualification": "Diploma",
+      "skills_required": [
+        "Teamwork",
+        "JavaScript",
+        "Interest in Sales"
+      ]
+    }
+  },
+  {
+    "internship_id": 37,
+    "title": "Media Internship",
+    "company": "Upadhyay PLC",
+    "location": "Chinsurah, Uttar Pradesh",
+    "duration": "3 months",
+    "stipend": "₹8784/month",
+    "eligibility": {
+      "required_qualification": "Undergraduate",
+      "skills_required": [
+        "Ability to Speak Local Language",
+        "Programming (Python)",
+        "Data Analysis",
+        "Creativity",
+        "Teamwork"
+      ]
+    }
+  },
+  {
+    "internship_id": 38,
+    "title": "Marketing Internship",
+    "company": "Bora PLC",
+    "location": "Nizamabad, Chhattisgarh",
+    "duration": "4 months",
+    "stipend": "₹13744/month",
+    "eligibility": {
+      "required_qualification": "Diploma",
+      "skills_required": [
+        "Machine Learning",
+        "Ability to Speak Local Language"
+      ]
+    }
+  },
+  {
+    "internship_id": 39,
+    "title": "Media Internship",
+    "company": "Varughese-Korpal",
+    "location": "Tenali, Telangana",
+    "duration": "4 months",
+    "stipend": "₹6874/month",
+    "eligibility": {
+      "required_qualification": "Diploma",
+      "skills_required": [
+        "Cloud Computing",
+        "Good Interpersonal Skills",
+        "Creativity"
+      ]
+    }
+  },
+  {
+    "internship_id": 40,
+    "title": "Design Internship",
+    "company": "Bava-Grover",
+    "location": "Surat, Kerala",
+    "duration": "1 months",
+    "stipend": "₹9665/month",
+    "eligibility": {
+      "required_qualification": "Undergraduate",
+      "skills_required": [
+        "Data Analysis",
+        "Project Management",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    }
+  },
+  {
+    "internship_id": 41,
+    "title": "Finance Internship",
+    "company": "Saini-Goyal",
+    "location": "Chinsurah, Maharashtra",
+    "duration": "6 months",
+    "stipend": "₹13242/month",
+    "eligibility": {
+      "required_qualification": "Diploma",
+      "skills_required": [
+        "Cloud Computing",
+        "JavaScript",
+        "Good Interpersonal Skills",
+        "Teamwork",
+        "Machine Learning"
+      ]
+    }
+  },
+  {
+    "internship_id": 42,
+    "title": "Marketing Internship",
+    "company": "Swaminathan-Shukla",
+    "location": "Hazaribagh, Punjab",
+    "duration": "5 months",
+    "stipend": "₹14856/month",
+    "eligibility": {
+      "required_qualification": "Diploma",
+      "skills_required": [
+        "Critical Thinking",
+        "Problem Solving",
+        "Data Analysis"
+      ]
+    }
+  },
+  {
+    "internship_id": 43,
+    "title": "Hospitality Internship",
+    "company": "Bumb, Chadha and Savant",
+    "location": "Suryapet, Meghalaya",
+    "duration": "6 months",
+    "stipend": "₹9476/month",
+    "eligibility": {
+      "required_qualification": "Undergraduate",
+      "skills_required": [
+        "Teamwork",
+        "Machine Learning",
+        "Good Interpersonal Skills"
+      ]
+    }
+  },
+  {
+    "internship_id": 44,
+    "title": "Engineering Internship",
+    "company": "Kothari, Jhaveri and Khosla",
+    "location": "Pallavaram, Tamil Nadu",
+    "duration": "3 months",
+    "stipend": "₹11967/month",
+    "eligibility": {
+      "required_qualification": "Diploma",
+      "skills_required": [
+        "Data Analysis",
+        "Good Interpersonal Skills",
+        "Communication Skills"
+      ]
+    }
+  },
+  {
+    "internship_id": 45,
+    "title": "Education Internship",
+    "company": "Comar LLC",
+    "location": "Sikar, Odisha",
+    "duration": "2 months",
+    "stipend": "₹8896/month",
+    "eligibility": {
+      "required_qualification": "Undergraduate",
+      "skills_required": [
+        "Machine Learning",
+        "Good Interpersonal Skills",
+        "Problem Solving"
+      ]
+    }
+  },
+  {
+    "internship_id": 46,
+    "title": "Engineering Internship",
+    "company": "Walia Ltd",
+    "location": "Patna, Nagaland",
+    "duration": "3 months",
+    "stipend": "₹19044/month",
+    "eligibility": {
+      "required_qualification": "Undergraduate",
+      "skills_required": [
+        "Project Management",
+        "Ability to Speak Local Language",
+        "Creativity"
+      ]
+    }
+  },
+  {
+    "internship_id": 47,
+    "title": "Finance Internship",
+    "company": "Borra, Shenoy and Bhalla",
+    "location": "Satara, Kerala",
+    "duration": "1 months",
+    "stipend": "₹6446/month",
+    "eligibility": {
+      "required_qualification": "Undergraduate",
+      "skills_required": [
+        "Problem Solving",
+        "Project Management",
+        "Critical Thinking"
+      ]
+    }
+  },
+  {
+    "internship_id": 48,
+    "title": "Research Internship",
+    "company": "Sekhon Group",
+    "location": "Jhansi, Uttarakhand",
+    "duration": "3 months",
+    "stipend": "₹9522/month",
+    "eligibility": {
+      "required_qualification": "Graduate",
+      "skills_required": [
+        "Problem Solving",
+        "Project Management",
+        "Communication Skills",
+        "Programming (Python)"
+      ]
+    }
+  },
+  {
+    "internship_id": 49,
+    "title": "Engineering Internship",
+    "company": "Bhatnagar Ltd",
+    "location": "Mehsana, Manipur",
+    "duration": "5 months",
+    "stipend": "₹6674/month",
+    "eligibility": {
+      "required_qualification": "Undergraduate",
+      "skills_required": [
+        "Communication Skills",
+        "Programming (Python)",
+        "JavaScript",
+        "Critical Thinking"
+      ]
+    }
+  },
+  {
+    "internship_id": 50,
+    "title": "Technology Internship",
+    "company": "Kapadia, Yogi and Talwar",
+    "location": "Kharagpur, Tripura",
+    "duration": "1 months",
+    "stipend": "₹11072/month",
+    "eligibility": {
+      "required_qualification": "Diploma",
+      "skills_required": [
+        "JavaScript",
+        "Machine Learning"
+      ]
+    }
+  },
+  {
+    "internship_id": 51,
+    "title": "Engineering Internship",
+    "company": "Kashyap PLC",
+    "location": "Gopalpur, Maharashtra",
+    "duration": "4 months",
+    "stipend": "₹8764/month",
+    "eligibility": {
+      "required_qualification": "Graduate",
+      "skills_required": [
+        "Good Interpersonal Skills",
+        "Communication Skills",
+        "Cloud Computing",
+        "Critical Thinking",
+        "Programming (Python)"
+      ]
+    }
+  },
+  {
+    "internship_id": 52,
+    "title": "Hospitality Internship",
+    "company": "Ravi Inc",
+    "location": "Madanapalle, Punjab",
+    "duration": "4 months",
+    "stipend": "₹19738/month",
+    "eligibility": {
+      "required_qualification": "Graduate",
+      "skills_required": [
+        "Data Analysis",
+        "JavaScript"
+      ]
+    }
+  },
+  {
+    "internship_id": 53,
+    "title": "Technology Internship",
+    "company": "Bassi-Karan",
+    "location": "Durg, Bihar",
+    "duration": "3 months",
+    "stipend": "₹18807/month",
+    "eligibility": {
+      "required_qualification": "Undergraduate",
+      "skills_required": [
+        "Teamwork",
+        "Ability to Speak Local Language",
+        "Machine Learning",
+        "Critical Thinking",
+        "Creativity"
+      ]
+    }
+  },
+  {
+    "internship_id": 54,
+    "title": "Design Internship",
+    "company": "Loyal and Sons",
+    "location": "Jorhat, Maharashtra",
+    "duration": "4 months",
+    "stipend": "₹19664/month",
+    "eligibility": {
+      "required_qualification": "Undergraduate",
+      "skills_required": [
+        "Teamwork",
+        "Creativity",
+        "Data Analysis",
+        "JavaScript",
+        "Good Interpersonal Skills"
+      ]
+    }
+  },
+  {
+    "internship_id": 55,
+    "title": "Finance Internship",
+    "company": "Sidhu Inc",
+    "location": "Shimoga, Punjab",
+    "duration": "4 months",
+    "stipend": "₹9404/month",
+    "eligibility": {
+      "required_qualification": "Undergraduate",
+      "skills_required": [
+        "Data Analysis",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    }
+  },
+  {
+    "internship_id": 56,
+    "title": "Marketing Internship",
+    "company": "Butala, Chaudhary and Setty",
+    "location": "Agra, Maharashtra",
+    "duration": "4 months",
+    "stipend": "₹11262/month",
+    "eligibility": {
+      "required_qualification": "Graduate",
+      "skills_required": [
+        "Creativity",
+        "Programming (Python)"
+      ]
+    }
+  },
+  {
+    "internship_id": 57,
+    "title": "Research Internship",
+    "company": "Sem, Taneja and Barad",
+    "location": "Patna, Nagaland",
+    "duration": "2 months",
+    "stipend": "₹12606/month",
+    "eligibility": {
+      "required_qualification": "Graduate",
+      "skills_required": [
+        "Interest in Sales",
+        "Communication Skills"
+      ]
+    }
+  },
+  {
+    "internship_id": 58,
+    "title": "Hospitality Internship",
+    "company": "Sethi-Ranganathan",
+    "location": "Saharanpur, Odisha",
+    "duration": "4 months",
+    "stipend": "₹18754/month",
+    "eligibility": {
+      "required_qualification": "Undergraduate",
+      "skills_required": [
+        "Ability to Speak Local Language",
+        "Critical Thinking",
+        "Good Interpersonal Skills",
+        "Data Analysis",
+        "Creativity"
+      ]
+    }
+  },
+  {
+    "internship_id": 59,
+    "title": "Education Internship",
+    "company": "Ram, Ray and Dhaliwal",
+    "location": "Satna, Himachal Pradesh",
+    "duration": "4 months",
+    "stipend": "₹16394/month",
+    "eligibility": {
+      "required_qualification": "Undergraduate",
+      "skills_required": [
+        "Machine Learning",
+        "Creativity",
+        "Teamwork",
+        "Programming (Python)",
+        "Communication Skills"
+      ]
+    }
+  },
+  {
+    "internship_id": 60,
+    "title": "Hospitality Internship",
+    "company": "Sarna, Dewan and Dhar",
+    "location": "Adoni, Jharkhand",
+    "duration": "1 months",
+    "stipend": "₹11601/month",
+    "eligibility": {
+      "required_qualification": "Graduate",
+      "skills_required": [
+        "Ability to Speak Local Language",
+        "Project Management"
+      ]
+    }
+  },
+  {
+    "internship_id": 61,
+    "title": "Research Internship",
+    "company": "Tank, Warrior and Krish",
+    "location": "Vijayanagaram, Mizoram",
+    "duration": "4 months",
+    "stipend": "₹6144/month",
+    "eligibility": {
+      "required_qualification": "Graduate",
+      "skills_required": [
+        "Machine Learning",
+        "Problem Solving",
+        "Programming (Python)"
+      ]
+    }
+  },
+  {
+    "internship_id": 62,
+    "title": "Marketing Internship",
+    "company": "Srinivasan-Cherian",
+    "location": "Indore, Uttarakhand",
+    "duration": "4 months",
+    "stipend": "₹17079/month",
+    "eligibility": {
+      "required_qualification": "Undergraduate",
+      "skills_required": [
+        "Interest in Sales",
+        "Creativity",
+        "Critical Thinking"
+      ]
+    }
+  },
+  {
+    "internship_id": 63,
+    "title": "Media Internship",
+    "company": "Chaudhuri Inc",
+    "location": "Miryalaguda, Manipur",
+    "duration": "2 months",
+    "stipend": "₹19868/month",
+    "eligibility": {
+      "required_qualification": "Graduate",
+      "skills_required": [
+        "Good Interpersonal Skills",
+        "Teamwork",
+        "Ability to Speak Local Language",
+        "Project Management"
+      ]
+    }
+  },
+  {
+    "internship_id": 64,
+    "title": "Finance Internship",
+    "company": "Gera, Tak and Maharaj",
+    "location": "Hazaribagh, Maharashtra",
+    "duration": "4 months",
+    "stipend": "₹14127/month",
+    "eligibility": {
+      "required_qualification": "Undergraduate",
+      "skills_required": [
+        "Teamwork",
+        "Critical Thinking",
+        "JavaScript",
+        "Creativity"
+      ]
+    }
+  },
+  {
+    "internship_id": 65,
+    "title": "Healthcare Internship",
+    "company": "Sekhon, Dara and Sami",
+    "location": "Bhusawal, Meghalaya",
+    "duration": "3 months",
+    "stipend": "₹14576/month",
+    "eligibility": {
+      "required_qualification": "Diploma",
+      "skills_required": [
+        "Creativity",
+        "Problem Solving",
+        "Ability to Speak Local Language"
+      ]
+    }
+  },
+  {
+    "internship_id": 66,
+    "title": "Education Internship",
+    "company": "Sibal-Barad",
+    "location": "Hajipur, Tripura",
+    "duration": "3 months",
+    "stipend": "₹18297/month",
+    "eligibility": {
+      "required_qualification": "Undergraduate",
+      "skills_required": [
+        "Creativity",
+        "Interest in Sales"
+      ]
+    }
+  },
+  {
+    "internship_id": 67,
+    "title": "Finance Internship",
+    "company": "Roy-Rao",
+    "location": "Bhilai, Himachal Pradesh",
+    "duration": "6 months",
+    "stipend": "₹16297/month",
+    "eligibility": {
+      "required_qualification": "Undergraduate",
+      "skills_required": [
+        "Programming (Python)",
+        "JavaScript",
+        "Cloud Computing"
+      ]
+    }
+  },
+  {
+    "internship_id": 68,
+    "title": "Engineering Internship",
+    "company": "Reddy Group",
+    "location": "Arrah, Odisha",
+    "duration": "4 months",
+    "stipend": "₹12739/month",
+    "eligibility": {
+      "required_qualification": "Undergraduate",
+      "skills_required": [
+        "Creativity",
+        "Project Management",
+        "Ability to Speak Local Language",
+        "Teamwork",
+        "Machine Learning"
+      ]
+    }
+  },
+  {
+    "internship_id": 69,
+    "title": "Education Internship",
+    "company": "Shanker, Dora and Banerjee",
+    "location": "Tiruppur, Punjab",
+    "duration": "2 months",
+    "stipend": "₹12687/month",
+    "eligibility": {
+      "required_qualification": "Diploma",
+      "skills_required": [
+        "Data Analysis",
+        "Good Interpersonal Skills",
+        "Programming (Python)",
+        "Teamwork",
+        "Ability to Speak Local Language"
+      ]
+    }
+  },
+  {
+    "internship_id": 70,
+    "title": "Marketing Internship",
+    "company": "Gade, Kunda and Kakar",
+    "location": "Nanded, Jharkhand",
+    "duration": "4 months",
+    "stipend": "₹8275/month",
+    "eligibility": {
+      "required_qualification": "Diploma",
+      "skills_required": [
+        "Interest in Sales",
+        "Ability to Speak Local Language",
+        "Communication Skills",
+        "Teamwork"
+      ]
+    }
+  },
+  {
+    "internship_id": 71,
+    "title": "Healthcare Internship",
+    "company": "Krishnamurthy-Bansal",
+    "location": "Jamalpur, Maharashtra",
+    "duration": "6 months",
+    "stipend": "₹17808/month",
+    "eligibility": {
+      "required_qualification": "Diploma",
+      "skills_required": [
+        "Machine Learning",
+        "Good Interpersonal Skills"
+      ]
+    }
+  },
+  {
+    "internship_id": 72,
+    "title": "Media Internship",
+    "company": "Karan-Khalsa",
+    "location": "Phagwara, Meghalaya",
+    "duration": "5 months",
+    "stipend": "₹6180/month",
+    "eligibility": {
+      "required_qualification": "Undergraduate",
+      "skills_required": [
+        "Creativity",
+        "Teamwork"
+      ]
+    }
+  },
+  {
+    "internship_id": 73,
+    "title": "Marketing Internship",
+    "company": "Desai LLC",
+    "location": "Silchar, Telangana",
+    "duration": "5 months",
+    "stipend": "₹9284/month",
+    "eligibility": {
+      "required_qualification": "Undergraduate",
+      "skills_required": [
+        "Machine Learning",
+        "Cloud Computing",
+        "Programming (Python)"
+      ]
+    }
+  },
+  {
+    "internship_id": 74,
+    "title": "Marketing Internship",
+    "company": "Aggarwal-Madan",
+    "location": "Kottayam, Gujarat",
+    "duration": "5 months",
+    "stipend": "₹9500/month",
+    "eligibility": {
+      "required_qualification": "Graduate",
+      "skills_required": [
+        "Programming (Python)",
+        "Problem Solving",
+        "Cloud Computing"
+      ]
+    }
+  },
+  {
+    "internship_id": 75,
+    "title": "Engineering Internship",
+    "company": "Randhawa, Wable and Issac",
+    "location": "Amaravati, Goa",
+    "duration": "6 months",
+    "stipend": "₹13069/month",
+    "eligibility": {
+      "required_qualification": "Undergraduate",
+      "skills_required": [
+        "Project Management",
+        "Machine Learning",
+        "Teamwork"
+      ]
+    }
+  },
+  {
+    "internship_id": 76,
+    "title": "Technology Internship",
+    "company": "Ram, Bawa and Raval",
+    "location": "Adoni, Madhya Pradesh",
+    "duration": "2 months",
+    "stipend": "₹15671/month",
+    "eligibility": {
+      "required_qualification": "Undergraduate",
+      "skills_required": [
+        "Problem Solving",
+        "Project Management",
+        "Critical Thinking",
+        "Interest in Sales",
+        "Creativity"
+      ]
+    }
+  },
+  {
+    "internship_id": 77,
+    "title": "Finance Internship",
+    "company": "Sule-Shere",
+    "location": "Hapur, Bihar",
+    "duration": "6 months",
+    "stipend": "₹10105/month",
+    "eligibility": {
+      "required_qualification": "Graduate",
+      "skills_required": [
+        "Programming (Python)",
+        "Interest in Sales",
+        "Communication Skills",
+        "Machine Learning"
+      ]
+    }
+  },
+  {
+    "internship_id": 78,
+    "title": "Healthcare Internship",
+    "company": "Dora LLC",
+    "location": "Raurkela Industrial Township, Telangana",
+    "duration": "1 months",
+    "stipend": "₹14825/month",
+    "eligibility": {
+      "required_qualification": "Undergraduate",
+      "skills_required": [
+        "Interest in Sales",
+        "Ability to Speak Local Language",
+        "Machine Learning"
+      ]
+    }
+  },
+  {
+    "internship_id": 79,
+    "title": "Hospitality Internship",
+    "company": "Sarin-Lanka",
+    "location": "Raiganj, Goa",
+    "duration": "4 months",
+    "stipend": "₹6204/month",
+    "eligibility": {
+      "required_qualification": "Diploma",
+      "skills_required": [
+        "Teamwork",
+        "Machine Learning",
+        "JavaScript",
+        "Communication Skills"
+      ]
+    }
+  },
+  {
+    "internship_id": 80,
+    "title": "Healthcare Internship",
+    "company": "Gala-Tandon",
+    "location": "Ujjain, Bihar",
+    "duration": "5 months",
+    "stipend": "₹10514/month",
+    "eligibility": {
+      "required_qualification": "Graduate",
+      "skills_required": [
+        "Interest in Sales",
+        "Problem Solving",
+        "Good Interpersonal Skills",
+        "JavaScript",
+        "Ability to Speak Local Language"
+      ]
+    }
+  },
+  {
+    "internship_id": 81,
+    "title": "Education Internship",
+    "company": "Dyal and Sons",
+    "location": "Varanasi, Haryana",
+    "duration": "4 months",
+    "stipend": "₹10324/month",
+    "eligibility": {
+      "required_qualification": "Undergraduate",
+      "skills_required": [
+        "JavaScript",
+        "Critical Thinking",
+        "Project Management",
+        "Problem Solving"
+      ]
+    }
+  },
+  {
+    "internship_id": 82,
+    "title": "Finance Internship",
+    "company": "Bala-Bir",
+    "location": "Mango, Madhya Pradesh",
+    "duration": "5 months",
+    "stipend": "₹9976/month",
+    "eligibility": {
+      "required_qualification": "Diploma",
+      "skills_required": [
+        "Good Interpersonal Skills",
+        "Machine Learning",
+        "Critical Thinking",
+        "JavaScript",
+        "Interest in Sales"
+      ]
+    }
+  },
+  {
+    "internship_id": 83,
+    "title": "Media Internship",
+    "company": "Konda LLC",
+    "location": "Hubli–Dharwad, Mizoram",
+    "duration": "3 months",
+    "stipend": "₹15113/month",
+    "eligibility": {
+      "required_qualification": "Undergraduate",
+      "skills_required": [
+        "Critical Thinking",
+        "Creativity",
+        "Programming (Python)",
+        "Problem Solving"
+      ]
+    }
+  },
+  {
+    "internship_id": 84,
+    "title": "Hospitality Internship",
+    "company": "Kale, Rau and Dutt",
+    "location": "Jaunpur, Uttarakhand",
+    "duration": "1 months",
+    "stipend": "₹12467/month",
+    "eligibility": {
+      "required_qualification": "Graduate",
+      "skills_required": [
+        "Ability to Speak Local Language",
+        "Creativity",
+        "Critical Thinking",
+        "Good Interpersonal Skills"
+      ]
+    }
+  },
+  {
+    "internship_id": 85,
+    "title": "Technology Internship",
+    "company": "Dalal-Dani",
+    "location": "Bhiwani, Nagaland",
+    "duration": "6 months",
+    "stipend": "₹19249/month",
+    "eligibility": {
+      "required_qualification": "Diploma",
+      "skills_required": [
+        "Data Analysis",
+        "Teamwork",
+        "Communication Skills"
+      ]
+    }
+  },
+  {
+    "internship_id": 86,
+    "title": "Design Internship",
+    "company": "Balay, Mand and Cheema",
+    "location": "Madanapalle, Assam",
+    "duration": "4 months",
+    "stipend": "₹10607/month",
+    "eligibility": {
+      "required_qualification": "Graduate",
+      "skills_required": [
+        "Interest in Sales",
+        "Project Management",
+        "Critical Thinking",
+        "Programming (Python)"
+      ]
+    }
+  },
+  {
+    "internship_id": 87,
+    "title": "Design Internship",
+    "company": "Bobal, Rastogi and Dutt",
+    "location": "Durgapur, Madhya Pradesh",
+    "duration": "4 months",
+    "stipend": "₹5460/month",
+    "eligibility": {
+      "required_qualification": "Diploma",
+      "skills_required": [
+        "Machine Learning",
+        "Good Interpersonal Skills",
+        "Interest in Sales"
+      ]
+    }
+  },
+  {
+    "internship_id": 88,
+    "title": "Research Internship",
+    "company": "Ahuja-Solanki",
+    "location": "Bareilly, Uttarakhand",
+    "duration": "3 months",
+    "stipend": "₹6343/month",
+    "eligibility": {
+      "required_qualification": "Graduate",
+      "skills_required": [
+        "Project Management",
+        "Creativity"
+      ]
+    }
+  },
+  {
+    "internship_id": 89,
+    "title": "Marketing Internship",
+    "company": "Mall, Mahal and Gera",
+    "location": "Bulandshahr, Rajasthan",
+    "duration": "1 months",
+    "stipend": "₹11120/month",
+    "eligibility": {
+      "required_qualification": "Graduate",
+      "skills_required": [
+        "JavaScript",
+        "Creativity",
+        "Interest in Sales"
+      ]
+    }
+  },
+  {
+    "internship_id": 90,
+    "title": "Engineering Internship",
+    "company": "Varghese-Bumb",
+    "location": "Raiganj, Madhya Pradesh",
+    "duration": "4 months",
+    "stipend": "₹18901/month",
+    "eligibility": {
+      "required_qualification": "Graduate",
+      "skills_required": [
+        "Problem Solving",
+        "Machine Learning",
+        "Teamwork"
+      ]
+    }
+  },
+  {
+    "internship_id": 91,
+    "title": "Education Internship",
+    "company": "Garg and Sons",
+    "location": "Burhanpur, Meghalaya",
+    "duration": "4 months",
+    "stipend": "₹5517/month",
+    "eligibility": {
+      "required_qualification": "Undergraduate",
+      "skills_required": [
+        "Machine Learning",
+        "Project Management",
+        "Good Interpersonal Skills",
+        "Programming (Python)",
+        "Critical Thinking"
+      ]
+    }
+  },
+  {
+    "internship_id": 92,
+    "title": "Media Internship",
+    "company": "Uppal LLC",
+    "location": "Belgaum, Sikkim",
+    "duration": "3 months",
+    "stipend": "₹15380/month",
+    "eligibility": {
+      "required_qualification": "Diploma",
+      "skills_required": [
+        "Teamwork",
+        "Machine Learning"
+      ]
+    }
+  },
+  {
+    "internship_id": 93,
+    "title": "Finance Internship",
+    "company": "Sharaf-Bansal",
+    "location": "Vijayawada, Kerala",
+    "duration": "2 months",
+    "stipend": "₹19400/month",
+    "eligibility": {
+      "required_qualification": "Graduate",
+      "skills_required": [
+        "JavaScript",
+        "Critical Thinking",
+        "Ability to Speak Local Language",
+        "Data Analysis"
+      ]
+    }
+  },
+  {
+    "internship_id": 94,
+    "title": "Marketing Internship",
+    "company": "Gokhale-Chaudhary",
+    "location": "Orai, Tripura",
+    "duration": "6 months",
+    "stipend": "₹7007/month",
+    "eligibility": {
+      "required_qualification": "Graduate",
+      "skills_required": [
+        "Data Analysis",
+        "Good Interpersonal Skills",
+        "Communication Skills",
+        "Teamwork"
+      ]
+    }
+  },
+  {
+    "internship_id": 95,
+    "title": "Media Internship",
+    "company": "Dhar Group",
+    "location": "Lucknow, Meghalaya",
+    "duration": "1 months",
+    "stipend": "₹17785/month",
+    "eligibility": {
+      "required_qualification": "Graduate",
+      "skills_required": [
+        "Interest in Sales",
+        "Communication Skills",
+        "JavaScript",
+        "Good Interpersonal Skills",
+        "Problem Solving"
+      ]
+    }
+  },
+  {
+    "internship_id": 96,
+    "title": "Healthcare Internship",
+    "company": "Saxena-Banik",
+    "location": "Alwar, Uttarakhand",
+    "duration": "6 months",
+    "stipend": "₹10287/month",
+    "eligibility": {
+      "required_qualification": "Undergraduate",
+      "skills_required": [
+        "Ability to Speak Local Language",
+        "Communication Skills",
+        "Interest in Sales",
+        "Good Interpersonal Skills"
+      ]
+    }
+  },
+  {
+    "internship_id": 97,
+    "title": "Finance Internship",
+    "company": "Atwal, Ramaswamy and Kala",
+    "location": "Sri Ganganagar, Tripura",
+    "duration": "3 months",
+    "stipend": "₹14039/month",
+    "eligibility": {
+      "required_qualification": "Diploma",
+      "skills_required": [
+        "Ability to Speak Local Language",
+        "Creativity",
+        "Machine Learning",
+        "Critical Thinking"
+      ]
+    }
+  },
+  {
+    "internship_id": 98,
+    "title": "Marketing Internship",
+    "company": "Rana-Chana",
+    "location": "Rampur, Chhattisgarh",
+    "duration": "3 months",
+    "stipend": "₹9199/month",
+    "eligibility": {
+      "required_qualification": "Graduate",
+      "skills_required": [
+        "Good Interpersonal Skills",
+        "Programming (Python)",
+        "Project Management",
+        "Cloud Computing",
+        "Machine Learning"
+      ]
+    }
+  },
+  {
+    "internship_id": 99,
+    "title": "Design Internship",
+    "company": "Din LLC",
+    "location": "Bihar Sharif, Telangana",
+    "duration": "6 months",
+    "stipend": "₹11437/month",
+    "eligibility": {
+      "required_qualification": "Undergraduate",
+      "skills_required": [
+        "Problem Solving",
+        "Project Management"
+      ]
+    }
+  },
+  {
+    "internship_id": 100,
+    "title": "Research Internship",
+    "company": "Mannan-Mammen",
+    "location": "Guntur, Haryana",
+    "duration": "6 months",
+    "stipend": "₹15170/month",
+    "eligibility": {
+      "required_qualification": "Diploma",
+      "skills_required": [
+        "Ability to Speak Local Language",
+        "Communication Skills"
+      ]
+    }
+  }
+]

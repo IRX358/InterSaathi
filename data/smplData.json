@@ -1,0 +1,339 @@
+{
+    "education": [
+        "B.Tech",
+        "M.Tech",
+        "MBA",
+        "B.Com",
+        "B.A.",
+        "M.A.",
+        "Undergraduate",
+        "Diploma",
+        "Graduate"
+    ],
+    "internship_types": [
+        "Remote",
+        "Onsite",
+        "Hybrid"
+    ],
+    "categories": [
+        "Finance",
+        "Marketing",
+        "Engineering",
+        "Hospitality",
+        "Design",
+        "Technology",
+        "Healthcare",
+        "Research",
+        "Education",
+        "Media"
+    ],
+    "durations": [
+        "1 month",
+        "2 months",
+        "3 months",
+        "4 months",
+        "5 months",
+        "6 months",
+        "1 year"
+    ],
+    "internships": [
+        {
+            "title": "Software Development Intern",
+            "company": "Tech Innovators",
+            "duration": "6 months",
+            "stipend": "₹25,000/month",
+            "location": "Bengaluru",
+            "eligibility": {
+                "required_qualification": "B.Tech",
+                "skills_required": [
+                    "Python",
+                    "Java",
+                    "React"
+                ]
+            }
+        },
+        {
+            "title": "Data Science Intern",
+            "company": "Data Insights Co.",
+            "duration": "3 months",
+            "stipend": "₹20,000/month",
+            "location": "Remote",
+            "eligibility": {
+                "required_qualification": "M.Tech",
+                "skills_required": [
+                    "Python",
+                    "Machine Learning",
+                    "SQL"
+                ]
+            }
+        },
+        {
+            "title": "UX/UI Design Intern",
+            "company": "Creative Minds",
+            "duration": "1 month",
+            "stipend": "₹15,000/month",
+            "location": "Hyderabad",
+            "eligibility": {
+                "required_qualification": "B.A.",
+                "skills_required": [
+                    "Figma",
+                    "Sketch",
+                    "Prototyping"
+                ]
+            }
+        },
+        {
+            "title": "Marketing Intern",
+            "company": "Brand Connect",
+            "duration": "6 months",
+            "stipend": "₹18,000/month",
+            "location": "Mumbai",
+            "eligibility": {
+                "required_qualification": "MBA",
+                "skills_required": [
+                    "Content Creation",
+                    "Social Media",
+                    "SEO"
+                ]
+            }
+        },
+        {
+            "title": "AI/ML Intern",
+            "company": "Future Tech",
+            "duration": "3 months",
+            "stipend": "₹30,000/month",
+            "location": "Onsite",
+            "eligibility": {
+                "required_qualification": "B.Tech",
+                "skills_required": [
+                    "Python",
+                    "TensorFlow",
+                    "PyTorch"
+                ]
+            }
+        },
+        {
+            "title": "Full Stack Developer Intern",
+            "company": "Web Solutions Inc.",
+            "duration": "6 months",
+            "stipend": "₹22,000/month",
+            "location": "Hybrid",
+            "eligibility": {
+                "required_qualification": "Graduate",
+                "skills_required": [
+                    "Node.js",
+                    "Express",
+                    "React",
+                    "MongoDB"
+                ]
+            }
+        },
+        {
+            "title": "Financial Analyst Intern",
+            "company": "Global Finance",
+            "duration": "3 months",
+            "stipend": "₹20,000/month",
+            "location": "Onsite",
+            "eligibility": {
+                "required_qualification": "B.Com",
+                "skills_required": [
+                    "Excel",
+                    "Financial Modeling",
+                    "Data Analysis"
+                ]
+            }
+        }
+    ],
+    "translations": {
+        "en": {
+            "find_internship_title": "Find your Internship using AI",
+            "name": "Name",
+            "education": "Education",
+            "skills": "Skills",
+            "internship_type": "Internship Type",
+            "category": "Category / Sector",
+            "internship_duration": "Internship Duration",
+            "explore_btn": "Explore Internships",
+            "save_profile_btn": "Save Profile",
+            "search_title": "Search Internships",
+            "search_placeholder": "Search by skills, type, or company name...",
+            "recommended_internships": "Recommended Internships",
+            "feedback_title": "Your Feedback Matters",
+            "feedback_placeholder": "Enter your feedback here...",
+            "submit_feedback_btn": "Submit Feedback",
+            "faq_title": "Frequently Asked Questions",
+            "back_to_home": "Back to Home",
+            "simple_mode": "Simple Mode",
+            "advanced_mode": "Advanced Mode",
+            "faq_queries": "FAQ/Queries",
+            "languageName": "English",
+            "language_placeholder_text": "Translate the page into:"
+        },
+        "hi": {
+            "find_internship_title": "अपनी ड्रीम इंटर्नशिप खोजें",
+            "name": "नाम",
+            "education": "शिक्षा",
+            "skills": "कौशल",
+            "internship_type": "इंटर्नशिप प्रकार",
+            "category": "श्रेणी / सेक्टर",
+            "internship_duration": "इंटर्नशिप अवधि",
+            "explore_btn": "इंटर्नशिप खोजें",
+            "save_profile_btn": "प्रोफाइल सहेजें",
+            "search_title": "इंटर्नशिप खोजें",
+            "search_placeholder": "कौशल, प्रकार, या कंपनी के नाम से खोजें...",
+            "recommended_internships": "अनुशंसित इंटर्नशिप",
+            "feedback_title": "आपकी राय मायने रखती है",
+            "feedback_placeholder": "अपनी प्रतिक्रिया यहाँ दर्ज करें...",
+            "submit_feedback_btn": "प्रतिक्रिया सबमिट करें",
+            "faq_title": "अक्सर पूछे जाने वाले प्रश्न",
+            "back_to_home": "घर वापस जाएँ",
+            "simple_mode": "सरल मोड",
+            "advanced_mode": "उन्नत मोड",
+            "faq_queries": "FAQ/प्रश्न",
+            "languageName": "Hindi",
+            "language_placeholder_text": "पृष्ठ का अनुवाद करें:"
+        },
+        "ta": {
+            "find_internship_title": "உங்கள் கனவு இன்டர்ன்ஷிப்பைக் கண்டறியவும்",
+            "name": "பெயர்",
+            "education": "கல்வி",
+            "skills": "திறன்கள்",
+            "internship_type": "இன்டர்ன்ஷிப் வகை",
+            "category": "வகை / துறை",
+            "internship_duration": "இன்டர்ன்ஷிப் காலம்",
+            "explore_btn": "இன்டர்ன்ஷிப்களை ஆராயுங்கள்",
+            "save_profile_btn": "சுயவிவரத்தை சேமிக்கவும்",
+            "search_title": "இன்டர்ன்ஷிப்களை தேடுங்கள்",
+            "search_placeholder": "திறன்கள், வகை அல்லது நிறுவனத்தின் பெயர் மூலம் தேடுங்கள்...",
+            "recommended_internships": "பரிந்துரைக்கப்பட்ட இன்டர்ன்ஷிப்கள்",
+            "feedback_title": "உங்கள் கருத்து முக்கியமானது",
+            "feedback_placeholder": "உங்கள் கருத்தை இங்கே உள்ளிடவும்...",
+            "submit_feedback_btn": "கருத்தை சமர்ப்பி",
+            "faq_title": "அடிக்கடி கேட்கப்படும் கேள்விகள்",
+            "back_to_home": "முகப்புக்கு திரும்பவும்",
+            "simple_mode": "எளிய பயன்முறை",
+            "advanced_mode": "மேம்பட்ட பயன்முறை",
+            "faq_queries": "அடிக்கடி கேட்கப்படும் கேள்விகள்",
+            "languageName": "Tamil",
+            "language_placeholder_text": "பக்கத்தை மொழிபெயர்க்கவும்:"
+        },
+        "te": {
+            "find_internship_title": "మీ కలల ఇంటర్న్‌షిప్‌ను కనుగొనండి",
+            "name": "పేరు",
+            "education": "విద్య",
+            "skills": "నైపుణ్యాలు",
+            "internship_type": "ఇంటర్న్‌షిప్ రకం",
+            "category": "వర్గం / రంగం",
+            "internship_duration": "ఇంటర్న్‌షిప్ వ్యవధి",
+            "explore_btn": "ఇంటర్న్‌షిప్‌లను అన్వేషించండి",
+            "save_profile_btn": "ప్రొఫైల్‌ను సేవ్ చేయండి",
+            "search_title": "ఇంటర్న్‌షిప్‌లను శోధించండి",
+            "search_placeholder": "నైపుణ్యాలు, రకం లేదా కంపెనీ పేరు ద్వారా శోధించండి...",
+            "recommended_internships": "సిఫార్సు చేయబడిన ఇంటర్న్‌షిప్‌లు",
+            "feedback_title": "మీ అభిప్రాయం ముఖ్యమైనది",
+            "feedback_placeholder": "మీ అభిప్రాయాన్ని ఇక్కడ నమోదు చేయండి...",
+            "submit_feedback_btn": "అభిప్రాయాన్ని సమర్పించండి",
+            "faq_title": "తరచుగా అడిగే ప్రశ్నలు",
+            "back_to_home": "హోమ్‌కి తిరిగి వెళ్ళు",
+            "simple_mode": "సాధారణ మోడ్",
+            "advanced_mode": "అధునాతన మోడ్",
+            "faq_queries": "తరచుగా అడిగే ప్రశ్నలు/ప్రశ్నలు",
+            "languageName": "Telugu",
+            "language_placeholder_text": "పేజీని అనువదించండి:"
+        },
+        "bn": {
+            "find_internship_title": "আপনার স্বপ্নের ইন্টার্নশিপ খুঁজুন",
+            "name": "নাম",
+            "education": "শিক্ষা",
+            "skills": "দক্ষতা",
+            "internship_type": "ইন্টার্নশিপের ধরন",
+            "category": "বিভাগ / ক্ষেত্র",
+            "internship_duration": "ইন্টার্নশিপের সময়কাল",
+            "explore_btn": "ইন্টার্নশিপ অন্বেষণ করুন",
+            "save_profile_btn": "প্রোফাইল সংরক্ষণ করুন",
+            "search_title": "ইন্টার্নশিপ অনুসন্ধান করুন",
+            "search_placeholder": "দক্ষতা, ধরন বা কোম্পানির নাম দ্বারা অনুসন্ধান করুন...",
+            "recommended_internships": "প্রস্তাবিত ইন্টার্নশিপ",
+            "feedback_title": "আপনার মতামত গুরুত্বপূর্ণ",
+            "feedback_placeholder": "এখানে আপনার মতামত লিখুন...",
+            "submit_feedback_btn": "মতামত জমা দিন",
+            "faq_title": "সচরাচর জিজ্ঞাসিত প্রশ্নাবলী",
+            "back_to_home": "হোম এ ফিরে যান",
+            "simple_mode": "সাধারণ মোড",
+            "advanced_mode": "উন্নত মোড",
+            "faq_queries": "FAQ/প্রশ্নাবলী",
+            "languageName": "Bengali",
+            "language_placeholder_text": "পৃষ্ঠাটি অনুবাদ করুন:"
+        },
+        "mr": {
+            "find_internship_title": "तुमची ड्रीम इंटर्नशिप शोधा",
+            "name": "नाव",
+            "education": "शिक्षण",
+            "skills": "कौशल्ये",
+            "internship_type": "इंटर्नशिपचा प्रकार",
+            "category": "श्रेणी / क्षेत्र",
+            "internship_duration": "इंटर्नशिपचा कालावधी",
+            "explore_btn": "इंटर्नशिप एक्सप्लोर करा",
+            "save_profile_btn": "प्रोफाईल जतन करा",
+            "search_title": "इंटर्नशिप शोधा",
+            "search_placeholder": "कौशल्ये, प्रकार किंवा कंपनीच्या नावाने शोधा...",
+            "recommended_internships": "शिफारस केलेली इंटर्नशिप",
+            "feedback_title": "तुमचे मत महत्त्वाचे आहे",
+            "feedback_placeholder": "तुमचे मत येथे प्रविष्ट करा...",
+            "submit_feedback_btn": "अभिप्राय सबमिट करा",
+            "faq_title": "वारंवार विचारले जाणारे प्रश्न",
+            "back_to_home": "होम पेजवर परत जा",
+            "simple_mode": "साधा मोड",
+            "advanced_mode": "प्रगत मोड",
+            "faq_queries": "वारंवार विचारले जाणारे प्रश्न/प्रश्न",
+            "languageName": "Marathi",
+            "language_placeholder_text": "पृष्ठ अनुवादित करा:"
+        },
+        "kn": {
+            "find_internship_title": "ನಿಮ್ಮ ಕನಸಿನ ಇಂಟರ್ನ್‌ಶಿಪ್ ಅನ್ನು ಹುಡುಕಿ",
+            "name": "ಹೆಸರು",
+            "education": "ಶಿಕ್ಷಣ",
+            "skills": "ಕೌಶಲ್ಯಗಳು",
+            "internship_type": "ಇಂಟರ್ನ್‌ಶಿಪ್ ಪ್ರಕಾರ",
+            "category": "ವರ್ಗ / ಕ್ಷೇತ್ರ",
+            "internship_duration": "ಇಂಟರ್ನ್‌ಶಿಪ್ ಅವಧಿ",
+            "explore_btn": "ಇಂಟರ್ನ್‌ಶಿಪ್‌ಗಳನ್ನು ಅನ್ವೇಷಿಸಿ",
+            "save_profile_btn": "ಪ್ರೊಫೈಲ್ ಉಳಿಸಿ",
+            "search_title": "ಇಂಟರ್ನ್‌ಶಿಪ್‌ಗಳನ್ನು ಹುಡುಕಿ",
+            "search_placeholder": "ಕೌಶಲ್ಯಗಳು, ಪ್ರಕಾರ ಅಥವಾ ಕಂಪನಿ ಹೆಸರು ಮೂಲಕ ಹುಡುಕಿ...",
+            "recommended_internships": "ಶಿಫಾರಸು ಮಾಡಿದ ಇಂಟರ್ನ್‌ಶಿಪ್‌ಗಳು",
+            "feedback_title": "ನಿಮ್ಮ ಪ್ರತಿಕ್ರಿಯೆ ಮುಖ್ಯ",
+            "feedback_placeholder": "ನಿಮ್ಮ ಪ್ರತಿಕ್ರಿಯೆಯನ್ನು ಇಲ್ಲಿ ನಮೂದಿಸಿ...",
+            "submit_feedback_btn": "ಪ್ರತಿಕ್ರಿಯೆಯನ್ನು ಸಲ್ಲಿಸಿ",
+            "faq_title": "ಪದೇ ಪದೇ ಕೇಳಲಾಗುವ ಪ್ರಶ್ನೆಗಳು",
+            "back_to_home": "ಮನೆಗೆ ಹಿಂತಿರುಗಿ",
+            "simple_mode": "ಸರಳ ಮೋಡ್",
+            "advanced_mode": "ಸುಧಾರಿತ ಮೋಡ್",
+            "faq_queries": "FAQ/ಪ್ರಶ್ನೆಗಳು",
+            "languageName": "Kannada",
+            "language_placeholder_text": "ಪುಟವನ್ನು ಅನುವಾದಿಸಿ:"
+        }
+    },
+    "faq": {
+        "content": [
+            {
+                "type": "text",
+                "text": "Welcome to our FAQ page! Here are some common questions and answers about our platform."
+            },
+            {
+                "type": "qa",
+                "question": "What is this platform for?",
+                "answer": "This platform helps students find relevant internships based on their skills and preferences using a recommendation engine."
+            },
+            {
+                "type": "qa",
+                "question": "How does the 'Explore Internships' feature work?",
+                "answer": "When you click 'Explore Internships', your entered data is temporarily logged and used to fetch the top 5 most relevant internships from our dataset."
+            },
+            {
+                "type": "video",
+                "url": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+            }
+        ]
+    }
+}
